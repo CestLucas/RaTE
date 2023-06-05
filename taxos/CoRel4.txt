@@ -1,0 +1,1746 @@
+location,arena
+location,venue
+location,theater
+location,balcony
+location,stadium
+location,stage
+location,theatre
+location,target
+location,dance
+location,comedy
+location,stage
+location,show
+location,beatles
+location,performers
+location,stage
+location,viewing
+location,dancers
+location,screens
+location,movie
+location,songs
+location,acrobatics
+location,tv
+location,outdoor area
+location,theater
+location,acrobatic
+location,dj
+location,dance
+location,cirque
+location,audience
+location,scenes
+location,seats
+location,performance
+location,lounge
+location,songs
+location,gaming
+location,tv
+location,sound
+location,playing
+location,concerts
+location,seats
+location,acts
+location,gogo
+location,upstairs
+location,video
+location,show
+location,dancefloor
+location,dancing
+location,360
+location,pole
+location,audience
+location,strip mall
+location,strip mall
+location,plaza
+location,shopping center
+location,tucked
+location,strip mall
+location,unassuming
+location,shopping center
+location,hidden
+location,shopping center
+location,holeinthewall
+location,corner
+location,hidden gem
+location,corner
+location,hole
+location,located
+location,located
+location,divey
+location,gem
+location,dive
+location,joint
+location,treasure
+location,urban
+location,walking
+location,chinatown
+location,chinatown
+location,diner
+location,quaint
+location,storefront
+location,humble
+location,aroma
+location,small
+location,neighborhood
+location,find
+location,nestled
+location,chinatown
+location,mall
+location,corner
+location,joint
+location,mall
+location,basement
+location,suburban
+location,touristy
+location,beaten
+location,fusion
+location,parking lot
+location,homey
+location,dive
+location,mall
+location,exterior
+location,post office
+location,ups
+location,product
+location,nightmare
+location,shipping
+location,walmart
+location,department
+location,pharmacy
+location,costco
+location,shipped
+location,product
+location,verizon
+location,rental
+location,lowes
+location,grocery store
+location,expired
+location,locally owned
+location,department
+location,walmart
+location,cox
+location,prescription
+location,att
+location,processed
+location,auto
+location,fedex
+location,company
+location,airline
+location,goods
+location,loan
+location,walmart
+location,representative
+location,dry cleaning
+location,refuses
+location,hertz
+location,warranty
+location,walmart
+location,solution
+location,dealership
+location,corporate
+location,groceries
+location,prescriptions
+location,refuse
+location,purchasing
+location,nordstrom
+location,produce
+location,corporate
+location,store
+location,useless
+location,incompetence
+location,home depot
+location,north
+location,conveniently located
+location,east
+location,situated
+location,campus
+location,south
+location,west
+location,ave
+location,east
+location,road
+location,west
+location,strip
+location,st
+location,street
+location,st
+location,strip
+location,across
+location,north
+location,strip
+location,city
+location,strip
+location,metro
+location,street
+location,northern
+location,downtown
+location,highway
+location,strip
+location,plaza
+location,block
+location,located
+location,fremont
+location,street
+location,walking distance
+location,near
+location,camelback
+location,south
+location,stops
+location,conveniently
+location,blocks
+location,distance
+location,flamingo
+location,valley
+location,resort
+location,mandalay bay
+location,strip
+location,downtown
+location,flamingo
+location,neighboring
+location,hotel
+location,central
+lunch,colleague
+lunch,co
+lunch,solo
+lunch,whim
+lunch,girlfriend
+lunch,la carte
+lunch,girlfriend
+lunch,coworkers
+lunch,friend
+lunch,colleagues
+lunch,coworkers
+lunch,friends birthday
+lunch,sister
+lunch,mom
+lunch,friend
+lunch,wife
+lunch,tonight
+lunch,invited
+lunch,celebrate
+lunch,coworkers
+lunch,casually
+lunch,fiance
+lunch,aunt
+lunch,dinner
+lunch,bachelorette party
+lunch,sisters
+lunch,sister
+lunch,birthday
+lunch,mothers
+lunch,monday night
+lunch,girlfriends
+lunch,boyfriend
+lunch,birthday
+lunch,friend
+lunch,mother
+lunch,nye
+lunch,saturday
+lunch,friends
+lunch,daughter
+lunch,coworker
+lunch,coworker
+lunch,tonight
+lunch,birthday
+lunch,mothers
+lunch,buddy
+lunch,bachelorette
+lunch,husband
+lunch,tuesday night
+lunch,lunch
+lunch,bachelor party
+lunch,egg roll
+lunch,spring roll
+lunch,fried rice
+lunch,wonton
+lunch,noodle soup
+lunch,brown rice
+lunch,noodles
+lunch,white rice
+lunch,chow mein
+lunch,noodle
+lunch,fried rice
+lunch,soy sauce
+lunch,udon
+lunch,curry
+lunch,rice noodles
+lunch,spring rolls
+lunch,tofu
+lunch,stir fried
+lunch,broth
+lunch,fried rice
+lunch,broth
+lunch,tofu
+lunch,noodles
+lunch,rice
+lunch,steamed
+lunch,noodles
+lunch,miso soup
+lunch,wontons
+lunch,white rice
+lunch,dumpling
+lunch,curry
+lunch,lo mein
+lunch,peanut sauce
+lunch,curry
+lunch,broccoli
+lunch,vermicelli
+lunch,shrimp
+lunch,egg roll
+lunch,pad thai
+lunch,sticky rice
+lunch,rice
+lunch,tofu
+lunch,dumplings
+lunch,broth
+lunch,soy sauce
+lunch,teriyaki
+lunch,spring rolls
+lunch,noodle soup
+lunch,dumplings
+lunch,ramen
+lunch,campus
+lunch,deli
+lunch,uptown
+lunch,downtown
+lunch,downtown
+lunch,residential
+lunch,city
+lunch,phoenix
+lunch,henderson
+lunch,ahwatukee
+lunch,university
+lunch,south
+lunch,city
+lunch,shadyside
+lunch,metro
+lunch,st
+lunch,scottsdale
+lunch,barrestaurant
+lunch,scottsdale
+lunch,north
+lunch,park
+lunch,tempe
+lunch,town
+lunch,west
+lunch,henderson
+lunch,madison
+lunch,locally owned
+lunch,central
+lunch,downtown
+lunch,district
+lunch,summerlin
+lunch,downtown
+lunch,state
+lunch,south park
+lunch,east
+lunch,independent
+lunch,city
+lunch,valley
+lunch,campus
+lunch,unlv
+lunch,tempe
+lunch,charlotte
+lunch,oakland
+lunch,mesa
+lunch,highway
+lunch,mall
+lunch,center
+lunch,market
+lunch,plaza
+lunch,building
+lunch,roast beef
+lunch,pastrami
+lunch,cheeseburger
+lunch,pulled pork
+lunch,potato salad
+lunch,gyro
+lunch,turkey
+lunch,sandwich
+lunch,yesterday
+lunch,fries
+lunch,cheesesteak
+lunch,reuben
+lunch,sandwich
+lunch,burger
+lunch,grilled chicken
+lunch,fries
+lunch,hamburger
+lunch,brisket
+lunch,onion rings
+lunch,onion rings
+lunch,bun
+lunch,burger
+lunch,philly
+lunch,coleslaw
+lunch,slider
+lunch,french fries
+lunch,meatball
+lunch,buffalo
+lunch,cheeseburger
+lunch,bleu cheese
+lunch,provolone
+lunch,grilled cheese
+lunch,corned beef
+lunch,fries
+lunch,pot roast
+lunch,philly
+lunch,angus
+lunch,ranch
+lunch,blt
+lunch,bacon
+lunch,club sandwich
+lunch,burger
+lunch,hot dog
+lunch,cheddar
+lunch,sliders
+lunch,pastrami
+lunch,grilled onions
+lunch,pickles
+lunch,patty
+lunch,chili
+lunch,muffin
+lunch,blueberry
+lunch,croissant
+lunch,strawberries
+lunch,croissants
+lunch,cookies
+lunch,chocolate chip
+lunch,almond
+lunch,cookie
+lunch,cinnamon
+lunch,whipped cream
+lunch,pastries
+lunch,oatmeal
+lunch,hazelnut
+lunch,syrup
+lunch,muffins
+lunch,scones
+lunch,donut
+lunch,bagels
+lunch,muffin
+lunch,nutella
+lunch,blueberries
+lunch,white chocolate
+lunch,vanilla
+lunch,granola
+lunch,french toast
+lunch,cupcakes
+lunch,scone
+lunch,syrup
+lunch,ice cream
+lunch,pastry
+lunch,caramel
+lunch,fruit
+lunch,donuts
+lunch,chocolate
+lunch,brownie
+lunch,strawberries
+lunch,strawberry
+lunch,cake
+lunch,pancakes
+lunch,french toast
+lunch,maple
+lunch,bananas
+lunch,tarts
+lunch,banana
+lunch,nutella
+lunch,chocolate
+lunch,chocolate
+lunch,sugar
+lunch,peanut butter
+dinner,peanut butter
+dinner,carrot
+dinner,almond
+dinner,yogurt
+dinner,caramel
+dinner,vanilla
+dinner,custard
+dinner,jelly
+dinner,ginger
+dinner,yogurt
+dinner,strawberry
+dinner,fudge
+dinner,strawberry
+dinner,nutella
+dinner,green tea
+dinner,raspberry
+dinner,vanilla
+dinner,sugar
+dinner,cookie
+dinner,tart
+dinner,ice cream
+dinner,dark chocolate
+dinner,frosting
+dinner,cheesecake
+dinner,banana
+dinner,white chocolate
+dinner,mint
+dinner,coconut
+dinner,ice cream
+dinner,strawberries
+dinner,hazelnut
+dinner,berry
+dinner,chocolate
+dinner,milk
+dinner,sugar
+dinner,banana
+dinner,chocolate
+dinner,ice cream
+dinner,salted caramel
+dinner,shaved ice
+dinner,brownie
+dinner,cinnamon
+dinner,flavored
+dinner,mango
+dinner,pumpkin
+dinner,tart
+dinner,whipped cream
+dinner,cookies
+dinner,lemon
+dinner,pistachio
+dinner,gnocchi
+dinner,ravioli
+dinner,veal
+dinner,risotto
+dinner,clams
+dinner,spaghetti
+dinner,rigatoni
+dinner,pasta
+dinner,lasagna
+dinner,tomato sauce
+dinner,meatballs
+dinner,bolognese
+dinner,pancetta
+dinner,tomato sauce
+dinner,fettuccine
+dinner,eggplant
+dinner,penne
+dinner,marsala
+dinner,alfredo
+dinner,spinach
+dinner,mushroom
+dinner,marinara
+dinner,mozzarella
+dinner,chicken parm
+dinner,spinach
+dinner,prosciutto
+dinner,linguine
+dinner,mushrooms
+dinner,pasta
+dinner,ricotta
+dinner,calzone
+dinner,pesto
+dinner,butternut squash
+dinner,meatballs
+dinner,fennel
+dinner,croutons
+dinner,mushrooms
+dinner,al dente
+dinner,dish
+dinner,squash
+dinner,lacked flavor
+dinner,undercooked
+dinner,marinara sauce
+dinner,tomatoes
+dinner,basil
+dinner,beets
+dinner,goat cheese
+dinner,pasta
+dinner,crust
+dinner,mashed potatoes
+dinner,celebration
+dinner,anniversary
+dinner,graduation
+dinner,celebrated
+dinner,celebrate
+dinner,birthday
+dinner,mothers
+dinner,celebrating
+dinner,outing
+dinner,shortly
+dinner,anniversary
+dinner,foodie
+dinner,parents
+dinner,celebration
+dinner,adult
+dinner,birthday
+dinner,valentines
+dinner,family
+dinner,birthdays
+dinner,parents
+dinner,birthday
+dinner,inlaws
+dinner,catered
+dinner,birthday
+dinner,day
+dinner,familys
+dinner,wife
+dinner,mom
+dinner,plans
+dinner,hosted
+dinner,attended
+dinner,anniversary
+dinner,brothers
+dinner,mother
+dinner,jan
+dinner,parents
+dinner,father
+dinner,fathers
+dinner,child
+dinner,annual
+dinner,partner
+dinner,sister
+dinner,friends birthday
+dinner,husband
+dinner,mothers
+dinner,daughter
+dinner,birthday party
+dinner,family
+dinner,dear
+dinner,family
+dinner,fillet
+dinner,prime rib
+dinner,filet
+dinner,steakhouse
+dinner,steak
+dinner,ribeye
+dinner,filet
+dinner,prime rib
+dinner,steak
+dinner,ribeye
+dinner,sirloin
+dinner,ribeye
+dinner,rare
+dinner,kobe
+dinner,filet mignon
+dinner,medium
+dinner,medium rare
+dinner,rib eye
+dinner,rib
+dinner,filet
+dinner,rare
+dinner,porterhouse
+dinner,medium rare
+dinner,york
+dinner,medium rare
+dinner,steak
+dinner,baked potato
+dinner,cuts
+dinner,cuts
+dinner,medium
+dinner,prime rib
+dinner,medium
+dinner,steaks
+dinner,filet mignon
+dinner,oz
+dinner,juicy
+dinner,ribs
+dinner,bone
+dinner,rack
+dinner,brazilian
+dinner,kobe beef
+dinner,beef
+dinner,skirt steak
+dinner,juicy
+dinner,mediumrare
+dinner,rare
+dinner,ribeye
+dinner,steaks
+dinner,hamburger
+dinner,baked potato
+dinner,lobster bisque
+dinner,asparagus
+dinner,trio
+dinner,silly
+dinner,champagne
+dinner,cru00e8me
+dinner,polenta
+dinner,pate
+dinner,watermelon
+dinner,blackberry
+dinner,lieu
+dinner,sounding
+dinner,grapefruit
+dinner,melon
+dinner,pomegranate
+dinner,housemade
+dinner,candied
+dinner,carafe
+dinner,garnished
+dinner,olive oil
+dinner,glass
+dinner,celery
+dinner,pour
+dinner,reduction
+dinner,caramelized
+dinner,mimosa
+dinner,bone marrow
+dinner,fondue
+dinner,capers
+dinner,pour
+dinner,without
+dinner,topped
+dinner,etc
+dinner,included
+dinner,accompaniment
+dinner,u00e0 la
+dinner,quand
+dinner,roasted
+dinner,chutney
+dinner,prix
+dinner,grits
+dinner,pecans
+dinner,sodas
+dinner,chilled
+dinner,endless
+dinner,champagne
+dinner,asparagus
+dinner,offset
+dinner,refreshing
+dinner,u00eatre
+dinner,balcony
+dinner,concert
+dinner,noise
+dinner,noisy
+dinner,pool
+dinner,hot tub
+dinner,bathroom
+dinner,pool area
+dinner,floor
+dinner,3rd floor
+dinner,pool area
+dinner,tv
+dinner,dancefloor
+dinner,shower
+dinner,floor
+dinner,toilet
+dinner,bathtub
+dinner,shower
+dinner,ceiling
+dinner,living room
+dinner,balcony
+dinner,hallways
+dinner,hall
+dinner,mirrors
+dinner,upstairs
+dinner,dance
+dinner,tv
+dinner,hallway
+dinner,elevators
+dinner,flat screen
+dinner,jacuzzi
+dinner,blasting
+dinner,deck
+dinner,air conditioning
+dinner,bathroom
+dinner,parking garage
+dinner,elevator
+dinner,dark
+dinner,speakers
+dinner,television
+dinner,noise
+dinner,curtains
+dinner,waterfall
+dinner,bathroom
+dinner,curtain
+dinner,hallway
+dinner,roof
+dinner,floors
+dinner,overhead
+dinner,pool
+dinner,oysters
+dinner,prawns
+dinner,mussels
+dinner,sea bass
+dinner,calamari
+dinner,tempura
+dinner,spicy tuna
+dinner,rolls
+dinner,soft shell crab
+dinner,yellowtail
+dinner,spicy tuna roll
+dinner,scallop
+dinner,gyoza
+dinner,shrimp
+dinner,nigiri
+dinner,calamari
+dinner,rolls
+dinner,chicken wings
+dinner,oysters
+dinner,albacore
+dinner,ceviche
+dinner,oysters
+dinner,sashimi
+dinner,edamame
+dinner,squid
+dinner,spring rolls
+dinner,octopus
+dinner,appetizers
+dinner,calamari
+dinner,calamari
+dinner,rolls
+dinner,sashimi
+dinner,fried shrimp
+dinner,eel
+dinner,appetizers
+dinner,crab cakes
+dinner,shrimp
+dinner,hamachi
+dinner,roll
+dinner,dumplings
+dinner,spring rolls
+dinner,roll
+dinner,oysters
+dinner,miso soup
+dinner,fish
+dinner,breading
+dinner,tempura
+dinner,nigiri
+dinner,pork belly
+dinner,potstickers
+food,chinese
+food,noodle
+food,chinese
+food,dim sum
+food,asian
+food,vietnamese
+food,asian
+food,korean
+food,korean
+food,filipino
+food,vietnamese
+food,hawaiian
+food,mongolian
+food,japanese
+food,ramen
+food,chinese food
+food,pho
+food,pho
+food,taiwanese
+food,thai
+food,noodles
+food,thai
+food,stir fry
+food,cantonese
+food,ramen
+food,pho
+food,japanese
+food,indian
+food,chinese food
+food,korean
+food,ramen
+food,dim sum
+food,thai
+food,mongolian
+food,pho
+food,indian
+food,chinese
+food,orange chicken
+food,chinatown
+food,chinese
+food,japanese
+food,dumpling
+food,fusion
+food,ramen
+food,pho
+food,dim sum
+food,fried rice
+food,hong kong
+food,chinatown
+food,china
+food,hash browns
+food,pancakes
+food,eggs
+food,biscuits
+food,scrambled eggs
+food,omelet
+food,french toast
+food,eggs benedict
+food,pancakes
+food,corned beef hash
+food,hashbrowns
+food,toast
+food,hash browns
+food,french toast
+food,eggs
+food,potatoes
+food,eggs
+food,hash
+food,scramble
+food,gravy
+food,chicken fried steak
+food,muffin
+food,toast
+food,pancakes
+food,waffles
+food,omelette
+food,eggs benedict
+food,omelets
+food,hash browns
+food,poached eggs
+food,biscuit
+food,potatoes
+food,omelet
+food,pancake
+food,eggs
+food,gravy
+food,gravy
+food,bacon
+food,hollandaise sauce
+food,waffle
+food,buttermilk
+food,skillet
+food,ham
+food,bacon
+food,potatoes
+food,benedict
+food,egg whites
+food,biscuits
+food,pancakes
+food,omelet
+food,banchan
+food,bowls
+food,udon
+food,bowls
+food,cups
+food,containers
+food,spoons
+food,soups
+food,trays
+food,cups
+food,dishes
+food,starch
+food,steaming
+food,barley
+food,bowls
+food,water
+food,rice
+food,main dishes
+food,servings
+food,bowl
+food,meals
+food,plates
+food,soup
+food,tea
+food,baskets
+food,beverages
+food,lemons
+food,hot tea
+food,soy sauce
+food,water
+food,utensils
+food,juices
+food,vegetables
+food,tea
+food,tea
+food,prepped
+food,pot
+food,refilled
+food,cups
+food,dishes
+food,broth
+food,veggies
+food,forks
+food,white rice
+food,beverages
+food,soft drinks
+food,pots
+food,bowl
+food,cubes
+food,individually
+food,nachos
+food,mexican
+food,fajitas
+food,enchiladas
+food,salsa
+food,guacamole
+food,tacos
+food,guac
+food,carne asada
+food,salsa
+food,burritos
+food,carnitas
+food,guacamole
+food,taco
+food,chips
+food,burrito
+food,tacos
+food,beans
+food,refried beans
+food,tortillas
+food,guacamole
+food,nachos
+food,enchilada
+food,street tacos
+food,quesadilla
+food,salsa
+food,carne asada
+food,chile
+food,tacos
+food,quesadilla
+food,burrito
+food,taco
+food,burrito
+food,chips
+food,beans
+food,salsa
+food,shredded beef
+food,taco
+food,tacos
+food,salsas
+food,quesadillas
+food,guac
+food,carne
+food,queso
+food,mexican
+food,quesadilla
+food,al pastor
+food,mexican food
+food,tortilla
+food,taquitos
+food,teriyaki
+food,fried rice
+food,tofu
+food,egg roll
+food,noodle soup
+food,fried rice
+food,sour
+food,pad thai
+food,pad thai
+food,white rice
+food,broccoli
+food,fried rice
+food,wonton
+food,spicy chicken
+food,brown rice
+food,egg roll
+food,adobo
+food,orange chicken
+food,noodle soup
+food,peanut sauce
+food,wontons
+food,spring roll
+food,pad thai
+food,noodle soup
+food,chicken
+food,curry
+food,teriyaki
+food,wonton
+food,rice
+food,curry
+food,curry
+food,pad thai
+food,brown rice
+food,lo mein
+food,noodles
+food,white rice
+food,spring rolls
+food,lemongrass
+food,noodles
+food,chow mein
+food,vermicelli
+food,cashew
+food,tofu
+food,soy sauce
+food,spicy sauce
+food,mongolian
+food,fishy
+food,bento box
+food,kimchi
+food,orange chicken
+food,silly
+food,culinary
+food,comfort food
+food,elaborate
+food,true
+food,reality
+food,eatery
+food,locals
+food,tourist
+food,cultural
+food,admire
+food,world
+food,canadian
+food,brilliant
+food,truly
+food,develop
+food,appeal
+food,appreciation
+food,history
+food,respectable
+food,worthwhile
+food,showcase
+food,arts
+food,attraction
+food,unpretentious
+food,foodie
+food,venue
+food,city
+food,character
+food,social
+food,pleasing
+food,nature
+food,influenced
+food,elements
+food,clever
+food,pretentious
+food,dining
+food,novel
+food,history
+food,adventure
+food,spirit
+food,historical
+food,demographic
+food,present
+food,urban
+food,fine dining
+food,locals
+food,obscure
+food,educational
+food,meets
+food,brisket
+food,ribs
+food,pulled pork
+food,ribs
+food,ribs
+food,brisket
+food,brisket
+food,baby back ribs
+food,ribs
+food,brisket
+food,bone
+food,pulled pork
+food,pulled pork
+food,rib
+food,fat
+food,tender
+food,bbq
+food,tender
+food,fatty
+food,bone
+food,tender
+food,tough
+food,tough
+food,chops
+food,tough
+food,juicy
+food,bone
+food,smoked
+food,fatty
+food,fatty
+food,rack
+food,meat
+food,sides
+food,dry
+food,bbq pork
+food,bbq
+food,coleslaw
+food,bbq sauce
+food,juicy
+food,corned beef
+food,juicy
+food,mac
+food,fried chicken
+food,pork
+food,prime rib
+food,dry
+food,pastrami
+food,bbq
+food,fat
+food,bbq sauce
+food,cafeteria
+food,garbage
+food,weak
+food,crap
+food,crappy
+food,nasty
+food,crappy
+food,nasty
+food,crap
+food,awful
+food,nasty
+food,generic
+food,sad
+food,cafeteria
+food,garbage
+food,gross
+food,blah
+food,gross
+food,pathetic
+food,low quality
+food,poor quality
+food,overpriced
+food,cardboard
+food,lame
+food,depressing
+food,gross
+food,boring
+food,disgustingly
+food,smelly
+food,overpriced
+food,lousy
+food,plastic
+food,horrible
+food,terrible
+food,depressing
+food,stale
+food,mess
+food,subpar
+food,terrible
+food,canned
+food,disorganized
+food,stinks
+food,borderline
+food,awful
+food,disgusting
+food,mediocre
+food,gross
+food,terrible
+food,nursing
+food,lame
+food,carrot
+food,cookie
+food,almond
+food,hazelnut
+food,raspberry
+food,crepe
+food,white chocolate
+food,chocolate
+food,caramel
+food,vanilla
+food,cake
+food,cookie
+food,dark chocolate
+food,peanut butter
+food,cake
+food,banana
+food,ice cream
+food,cheesecake
+food,marshmallow
+food,strawberry
+food,brownie
+food,ice cream
+food,apple
+food,fudge
+food,ice cream
+food,cake
+food,chocolate cake
+food,strawberries
+food,mousse
+food,strawberries
+food,cookies
+food,nutella
+food,frosting
+food,berry
+food,nut
+food,creme
+food,pistachio
+food,gelato
+food,crumb
+food,tart
+food,chocolate
+food,cinnamon
+food,chocolate
+food,cheesecake
+food,salted caramel
+food,strawberry
+food,sundae
+food,pastry
+food,cheesecake
+food,gelato
+food,french fries
+food,bun
+food,hot dogs
+food,patty
+food,buns
+food,bun
+food,patty
+food,bun
+food,pickles
+food,hot dog
+food,hamburger
+food,patties
+food,grilled onions
+food,pickle
+food,onion rings
+food,fries
+food,white bread
+food,french fries
+food,burger
+food,bbq sauce
+food,burger
+food,mayo
+food,cole slaw
+food,oozing
+food,mustard
+food,coleslaw
+food,ketchup
+food,bbq sauce
+food,tots
+food,provolone
+food,cheddar
+food,mayo
+food,fries
+food,hot dog
+food,cheddar
+food,burgers
+food,fries
+food,slathered
+food,veggie burger
+food,cheeseburger
+food,bbq sauce
+food,french fries
+food,batter
+food,pickles
+food,tater tots
+food,mayo
+food,toppings
+food,fries
+food,onions
+food,slider
+food,sashimi
+food,tapas
+food,calamari
+food,scallop
+food,yellowtail
+food,sashimi
+food,oysters
+food,hamachi
+food,octopus
+food,tasting menu
+food,salmon
+food,spicy tuna
+food,appetizers
+food,sashimi
+food,scallops
+food,scallops
+food,sea bass
+food,squid
+food,salmon
+food,spicy tuna roll
+food,risotto
+food,carpaccio
+food,tuna
+food,crab cakes
+food,appetizers
+food,soft shell crab
+food,nigiri
+food,roll
+food,nigiri
+food,tempura
+food,filet mignon
+food,tuna
+food,oysters
+food,calamari
+food,sashimi
+food,appetizer
+food,seared
+food,main courses
+food,lobster
+food,entrees
+food,wagyu
+food,cod
+food,ceviche
+food,chefs
+food,filet
+food,halibut
+food,asparagus
+food,skewers
+food,appetizers
+food,sea bass
+food,sandwhich
+food,meatloaf
+food,hummus
+food,pesto
+food,grilled chicken
+food,feta
+food,panini
+food,blue cheese
+food,pita
+food,greek
+food,dressing
+food,salad
+food,calzone
+food,dressing
+food,margherita pizza
+food,pita
+food,tzatziki
+food,gyro
+food,veggie burger
+food,arugula
+food,ranch
+food,meatball
+food,mozzarella
+food,spinach
+food,greek
+food,tomato
+food,sandwich
+food,rosemary
+food,spaghetti
+food,alfredo
+food,sandwich
+food,grilled cheese
+food,gorgonzola
+food,salad
+food,marsala
+food,prosciutto
+food,sandwich
+food,caesar
+food,falafel
+food,caesar salad
+food,dressing
+food,hummus
+food,wrap
+food,mushroom
+food,brie
+food,chicken parm
+food,kale
+food,pesto
+food,bleu cheese
+food,gyro
+food,paint
+food,mirror
+food,shower
+food,carpet
+food,dust
+food,sink
+food,tub
+food,stain
+food,shower
+food,closet
+food,peeling
+food,bathtub
+food,toilet
+food,shower
+food,stains
+food,towels
+food,sheets
+food,drain
+food,bed
+food,flush
+food,clogged
+food,carpets
+food,bathroom
+food,cleaned
+food,curtain
+food,faucet
+food,bath
+food,tile
+food,broken
+food,mold
+food,blinds
+food,comforter
+food,sheets
+food,bathroom
+food,carpet
+food,vacuumed
+food,towel
+food,bed
+food,scratched
+food,tiles
+food,ac
+food,shampoo
+food,sinks
+food,cleaning
+food,bedding
+food,soap
+food,tub
+food,maintenance
+food,chipped
+food,sink
+service,silly
+service,occasional
+service,minimum
+service,worthwhile
+service,10
+service,adult
+service,normally
+service,typically
+service,haha
+service,sooo
+service,and
+service,also
+service,forget
+service,too
+service,sometimes
+service,10
+service,usually
+service,plus
+service,unlimited
+service,regular
+service,too
+service,though
+service,cheap
+service,for
+service,pricey
+service,especially
+service,cheap
+service,plus
+service,more
+service,especially
+service,note
+service,often
+service,typically
+service,more
+service,alone
+service,crazy
+service,combine
+service,darn
+service,lol
+service,everyday
+service,beware
+service,14
+service,get
+service,includes
+service,cents
+service,opt
+service,weak
+service,crack
+service,music
+service,football
+service,music
+service,volume
+service,ac
+service,noisy
+service,loud
+service,music
+service,loud
+service,band
+service,blasting
+service,performance
+service,loud
+service,nfl
+service,game
+service,sound
+service,misters
+service,dj
+service,sound
+service,jukebox
+service,fire
+service,heaters
+service,noisy
+service,game
+service,playing
+service,loud music
+service,playing
+service,dj
+service,rooftop
+service,acoustics
+service,jazz
+service,groove
+service,game
+service,patio
+service,blaring
+service,crowd
+service,band
+service,karaoke
+service,dj
+service,rowdy
+service,noise level
+service,scene
+service,top 40
+service,gogo
+service,chilly
+service,speakers
+service,band
+service,bands
+service,john
+service,assistant
+service,specialist
+service,detailed
+service,pressure
+service,tint
+service,technician
+service,solution
+service,thorough
+service,technique
+service,paint
+service,quote
+service,rob
+service,tires
+service,extensions
+service,records
+service,tires
+service,repair
+service,mark
+service,auto
+service,james
+service,consult
+service,repairs
+service,alex
+service,removal
+service,repair
+service,lenses
+service,results
+service,dr
+service,tires
+service,technicians
+service,diagnosis
+service,damage
+service,repairs
+service,salesman
+service,applying
+service,color
+service,dentist
+service,vision
+service,brake
+service,completed
+service,inspected
+service,procedures
+service,kelly
+service,consultation
+service,professional
+service,repaired
+service,mike
+service,brian
+service,tire
+service,suite
+service,beds
+service,tub
+service,sheets
+service,tub
+service,bed
+service,bed
+service,housekeeping
+service,bathtub
+service,rooms
+service,bathroom
+service,king bed
+service,beds
+service,bedding
+service,suites
+service,queen
+service,bathroom
+service,beds
+service,bath
+service,bed
+service,carpet
+service,suite
+service,shower
+service,bed
+service,linens
+service,tub
+service,bedroom suite
+service,pillows
+service,bedroom
+service,jacuzzi
+service,rooms
+service,room
+service,living room
+service,room
+service,shower
+service,mattress
+service,tower
+service,motel
+service,robes
+service,room
+service,rooms
+service,bedroom
+service,tower
+service,tower
+service,pyramid
+service,beds
+service,toilet
+service,sheets
+service,king
+service,room
+service,extremely rude
+service,acting
+service,male
+service,rude
+service,garbage
+service,unfriendly
+service,lousy
+service,unprofessional
+service,disrespectful
+service,rude
+service,acted
+service,rude
+service,ignorant
+service,miserable
+service,yelled
+service,clueless
+service,snotty
+service,blatantly
+service,offended
+service,manners
+service,attitude
+service,unprofessional
+service,nasty
+service,rude
+service,behavior
+service,yelling
+service,stares
+service,female
+service,unprofessional
+service,extremely rude
+service,angry
+service,obnoxious
+service,attitude
+service,condescending
+service,attitude
+service,disgusting
+service,behavior
+service,surly
+service,appalled
+service,unhappy
+service,unhelpful
+service,visibly
+service,horribly
+service,embarrassment
+service,insulted
+service,disgust
+service,nasty
+service,flirting
+service,unfriendly
+service,confronted
+service,taxi
+service,cab
+service,shuttle
+service,rental car
+service,airport
+service,shuttles
+service,miles
+service,airport
+service,cab
+service,shuttle
+service,cab ride
+service,minute drive
+service,airport
+service,mile
+service,tram
+service,cabs
+service,terminal
+service,ride
+service,buses
+service,highway
+service,bus
+service,flamingo
+service,freeway
+service,metro
+service,car rental
+service,monorail
+service,distance
+service,hertz
+service,airport
+service,driver
+service,walk
+service,taxis
+service,walk
+service,traffic
+service,valet
+service,cab
+service,mgm
+service,transportation
+service,hike
+service,terminal
+service,road
+service,block
+service,blocks
+service,passengers
+service,valet
+service,driving
+service,walking distance
+service,drive
+service,strip
+service,downtown

@@ -1,0 +1,524 @@
+seafood,mussel
+seafood,clam
+seafood,lobster
+seafood,oyster
+seafood,shrimp
+seafood,scallop
+seafood,crab
+seafood,chicken
+seafood,salmon
+seafood,fish
+seafood,pork
+seafood,octopus
+seafood,beef
+seafood,steak
+seafood,meat
+seafood,tofu
+seafood,duck
+seafood,avocado
+seafood,sausage
+seafood,rice
+seafood,brisket
+seafood,crawfish
+seafood,pork belly
+seafood,prime rib
+salad,wedge salad
+salad,cesar salad
+salad,mixed green
+salad,sandwich
+salad,caesar
+salad,caesar salad
+salad,volcano
+salad,hamburger
+salad,bloody mary
+salad,kale
+salad,pre package
+salad,mediterranean
+salad,basic
+salad,mixed greens
+salad,apple
+salad,greek
+salad,house
+salad,seaweed
+salad,grill chicken
+salad,green
+salad,tuscan
+salad,pre mixed
+salad,cabbage
+salad,vegetarian
+salad,spinach
+salad,above mention
+salad,npl
+salad,freshly make
+salad,garden
+salad,tomato
+salad,quinoa
+salad,collard green
+salad,mustard green
+salad,apricot
+salad,chard
+salad,field green
+salad,papaya
+salad,chateaubriand
+salad,blueberry
+salad,melon
+salad,kiwi
+salad,plum
+salad,hot dog
+salad,virgin mary
+salad,raspberry
+salad,black sea
+salad,baltic
+salad,prune
+salad,raisin
+salad,meatball
+salad,savoury crepe
+salad,roast peanut
+salad,broccoli
+salad,cranberry
+salad,ham cheese sandwich
+salad,collar green
+salad,sliced strawberry
+salad,papayas
+salad,hard shell
+salad,mangoes
+salad,macaroni
+salad,club sandwich
+salad,antipasto
+salad,blackberry
+salad,sundae
+salad,chef
+salad,nice
+salad,cauliflower
+salad,brussels sprout
+salad,celery
+salad,green bean
+salad,string beans
+salad,barley
+salad,pepper
+salad,turkey
+salad,mushroom
+salad,millet
+salad,asparagus
+salad,squash
+salad,brussel sprout
+salad,bok choy
+salad,oat
+dessert,ice cream
+dessert,cake
+dessert,pastries
+dessert,sauce
+dessert,gelato
+dessert,latte
+dessert,cheesecake
+dessert,milkshake
+dessert,cupcake
+dessert,taste
+dessert,cream
+dessert,smoothie
+dessert,pancake
+dessert,waffle
+dessert,mousse
+dessert,bread pudding
+dessert,muffin
+dessert,french toast
+dessert,syrup
+dessert,butter
+dessert,lemonade
+dessert,croissant
+dessert,sorbet
+dessert,tea
+dessert,mojito
+dessert,scone
+appetizer,fry calamari
+appetizer,stuff mushroom
+appetizer,fry zucchini
+appetizer,fry
+appetizer,shaker
+appetizer,squid
+appetizer,waiter waitress
+appetizer,curly fry
+appetizer,pineapple
+appetizer,smash potato
+appetizer,acoustic
+appetizer,apple butter
+appetizer,portion size
+appetizer,lettuce
+appetizer,halibut
+appetizer,carrot
+appetizer,jalapeno popper
+appetizer,lamb chop
+appetizer,egg benedict
+appetizer,egg
+appetizer,mash potato
+appetizer,refried bean
+appetizer,potato
+appetizer,spice
+appetizer,nacho
+appetizer,fried wonton
+appetizer,noodle
+appetizer,curry
+appetizer,dumpling
+appetizer,spring roll
+appetizer,sticky ribs
+appetizer,homemade salsas
+appetizer,b nh
+appetizer,lamb bolognese
+appetizer,fried brussel sprout
+appetizer,lime cilantro
+appetizer,hamachi crudo
+appetizer,tangy sauce
+appetizer,crispy ginger beef
+appetizer,hearty broth
+appetizer,vegetable
+appetizer,chili
+appetizer,hash brown
+appetizer,french fry
+appetizer,slider
+appetizer,home fry
+appetizer,onion
+appetizer,tortilla
+appetizer,poutine
+appetizer,jack cheese
+appetizer,tikki masala
+appetizer,bisque soup
+appetizer,avo toast
+appetizer,street tacos
+appetizer,seared albacore
+appetizer,kahlua pork
+appetizer,frisee salad
+appetizer,yellowtail carpaccio
+appetizer,roast squash
+appetizer,pad tai
+appetizer,grit
+appetizer,pretzel
+food,food quality
+food,no real complaint
+food,table side guac
+food,starbucks
+food,no complaint
+food,4 . 5 star
+food,4 star
+food,3 star
+food,5 star
+food,four star
+food,five star
+food,three star
+food,1 star
+food,no worry
+food,no big deal
+food,zero complaint
+food,no problem
+food,zero star
+food,0 star
+food,an extra star
+food,negative star
+food,big deal
+food,3 . 5 star
+food,star
+food,an add bonus
+sushi,sashimi
+sushi,spicy tuna
+sushi,yellow tail
+sushi,spicy salmon
+sushi,tuna
+sushi,california
+sushi,rainbow
+sushi,dragon
+sushi,dynamite
+sushi,spider
+sushi,eel
+sushi,tempura
+sushi,philadelphia
+sushi,ahi tuna
+sushi,vegas
+sushi,tiger
+sushi,las vegas
+sushi,cinnamon
+sushi,spicy scallop
+sushi,cucumber
+sushi,soft shell crab
+sushi,hawaiian
+sushi,cali
+desert,creme brulee
+desert,cannoli
+desert,tiramisu
+desert,flan
+desert,chocolate cake
+desert,chocolate
+desert,baklava
+desert,pastry
+desert,strawberry
+desert,custard
+desert,cassoulet
+desert,ratatouille
+desert,panna cotta
+desert,biscotti
+desert,torte
+desert,creme brule
+desert,key lime
+desert,pecan pie
+desert,flourless chocolate cake
+desert,chocolate chip cookie
+desert,triple chocolate
+desert,brownie sundae
+desert,meringue
+desert,mud pie
+desert,strawberry shortcake
+desert,salted caramel
+desert,praline
+desert,salted carmel
+desert,napoleon
+desert,pistachio
+desert,nutella
+desert,butterscotch
+desert,crack pie
+desert,apple pie
+desert,pot de creme
+desert,salt caramel
+desert,sticky bun
+pizza,thin crust
+pizza,calzone
+pizza,pepperoni
+pizza,white
+pizza,deep dish
+pizza,ny style
+pizza,gluten free
+pizza,new york style
+pizza,ny
+pizza,chicago style
+pizza,new york
+pizza,gourmet
+pizza,sicilian
+coffee,cold brew
+coffee,drip coffee
+coffee,vietnamese
+coffee,black
+coffee,ice
+coffee,cappuccino
+coffee,thai
+coffee,espresso
+coffee,milk
+coffee,lunch special
+coffee,french press
+bread,sour dough
+bread,focaccia
+bread,ciabatta bread
+bread,sourdough
+bread,garlic
+bread,french
+bread,corn
+bread,wheat
+bread,italian
+bread,naan
+bread,planet earth
+bread,fresh baked
+bread,monkey
+bread,brioche
+bread,challah
+bread,warm pita
+bread,texas
+bread,freshly bake
+bread,white bread
+bread,baguette
+bread,banana nut
+bread,multi grain
+bread,injera
+bread,artisan
+bread,rosemary bread
+bread,whole grain
+bread,hazelnut
+bread,freshly baked
+pasta,bolognese
+pasta,penne
+pasta,tagliatelle
+pasta,gnocchi
+pasta,ravioli
+pasta,pesto
+pasta,risotto
+pasta,cajun
+pasta,anti
+pasta,jerk
+pasta,buffalo
+pasta,grill cheese
+pasta,chipotle
+pasta,bruschetta
+pasta,big rig
+pasta,louisiana creole
+pasta,tortellini
+pasta,bow tie
+pasta,cornmeal
+pasta,donburi
+pasta,pilaf
+pasta,alla vodka
+pasta,fra diavolo
+pasta,ala vodka
+pasta,di mare
+pasta,wild mushroom
+pasta,baked penne
+pasta,grill calamari
+pasta,creamy tomato
+pasta,homemade pasta
+pasta,baked ziti
+pasta,veal
+pasta,polenta
+pasta,fried ravioli
+pasta,osso bucco
+pasta,gorgonzola
+pasta,basil pesto
+pasta,marsala
+pasta,pancetta
+pasta,lasagne
+beer,draft beer
+beer,craft beer
+beer,bottled beer
+beer,tequila
+beer,sake
+beer,italian wine
+beer,organic
+beer,game
+beer,rum
+beer,argentinian
+beer,vodka
+beer,french wine
+beer,local beer
+beer,mirin
+soup,chicken soup
+soup,noodle soup
+soup,lobster bisque
+soup,raman
+soup,broth
+soup,stew
+soup,carpaccio
+soup,teriyaki
+soup,gravy
+soup,chow fun
+soup,weekend brunch
+soup,aftertaste
+soup,mole sauce
+soup,pho fix
+soup,fish ball
+soup,flat soda
+soup,ginger ale
+soup,black tea
+soup,fried rice
+soup,apple juice
+soup,casserole
+soup,fois gras
+soup,miso soup
+soup,chowder
+soup,prime steak
+soup,herbal tea
+soup,shabu shabu
+soup,udon
+soup,pho ga
+soup,wonton
+soup,rendang
+soup,rice vermicelli
+soup,tom yum
+soup,hand pull
+soup,vermicelli
+soup,borscht
+soup,shoyu raman
+soup,naengmyeon
+soup,cha shu
+soup,pho broth
+soup,tom kha
+soup,rice noodle
+soup,rice cake
+soup,jjigae
+soup,lo mein
+soup,tonkotsu raman
+wine,chianti
+wine,red wine
+wine,red
+wine,cabernet
+wine,champagne
+wine,white wine
+wine,chardonnay
+wine,prosecco
+wine,sauvignon blanc
+wine,pinot noir
+cheese,cheddar cheese
+cheese,cheddar
+cheese,smoke gouda
+cheese,stone ground
+cocktail,whiskey sour
+cocktail,mixed drink
+cocktail,specialty cocktail
+cocktail,italy
+cocktail,pollo fundido
+cocktail,highly recommend
+cocktail,el pastor
+cocktail,salt oreo
+cocktail,saganaki
+cocktail,loco moco
+cocktail,baked potato
+cocktail,home style potato
+cocktail,sidecar
+cocktail,ala carte
+cocktail,bento box
+cocktail,tom collins
+cocktail,bramble
+cocktail,mix drink
+cocktail,vanilla sky
+cocktail,hard liquor
+cocktail,fruit wine
+cocktail,table wine
+cocktail,tap beer
+cocktail,german beer
+taco,tacos
+taco,street taco
+taco,carnitas
+taco,carne asada
+taco,chorizo
+taco,al pastor
+taco,pastor
+taco,barbacoa
+taco,torta
+taco,shredded beef
+taco,burro
+taco,nachos
+taco,enchilada
+taco,mojarra
+taco,tripe
+taco,tableside guacamole
+taco,salads
+taco,hot salsa
+water,tap water
+water,soda water
+water,fiji
+water,sparkle
+water,dirty mop
+water,salt
+music,band
+music,background music
+music,r b
+music,k pop
+music,dj
+music,electronic music
+music,ghetto
+music,oldie
+music,music video
+music,beatle
+music,loud music
+music,rock music
+music,sport
+music,techno music
+music,hawaiian music
+music,tiesto
+music,trumpet
+music,smooth jazz
+music,big screen tv
+music,christmas music
+music,indie music
+music,whitesnake
+music,large screen
+music,anime
+music,hip hop
+music,blue music
+music,jazz music
+music,jazz
+music,upbeat music
+music,front desk
+music,regina spektor
