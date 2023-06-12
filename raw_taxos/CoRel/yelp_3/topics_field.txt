@@ -1,0 +1,6 @@
+ROOT	dessert seafood japanese chinese steak
+dessert	ice_cream cake pastries brownie sorbet sundae creme_brulee tiramisu
+seafood	shrimp scallops squid oysters crawfish gumbo sea_bass calamari clam tuna salmon
+steak	filet_mignon sirloin rib_eye tenderloin medium_rare
+japanese	roll sashimi hamachi tempura nigiri miso
+chinese	wonton egg_roll spring_roll tofu fried_rice 

@@ -1,0 +1,4 @@
+ROOT	food location service lunch dinner retail
+food	chow_mein comfort_food entree appetizer dessert
+entree	carne_asada sashimi lasagna
+dessert	ice_cream cake pastries
