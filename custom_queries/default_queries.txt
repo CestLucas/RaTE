@@ -1,0 +1,12 @@
+# query, "display name"
+{token} [MASK], {token} [MASK]
+[MASK] {token}, [MASK] {token}
+{token} is a [MASK], is a
+{token} is an [MASK], is an
+{token} is a kind of [MASK], kind of
+{token} is a type of [MASK], type of
+{token} is an example of [MASK], example of
+[MASK] such as {token}, such as
+A [MASK] such as {token}, a such as
+An [MASK] such as {token}, an such as
+My favorite [MASK] is {token}, favorite
