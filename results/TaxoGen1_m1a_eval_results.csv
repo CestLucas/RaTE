@@ -1,0 +1,170 @@
+,hypernym,hyponym,{token} [MASK],[MASK] {token},is a,is an,kind of,type of,example of,such as,a such as,an such as,favorite,sum
+0,south hills,mesa,0,0,0,0,0,0,0,0,0,0,0,0
+1,dinners,lunch specials,0,0,0,0,0,0,0,1,0,0,0,1
+2,high ceilings,lounging,0,0,0,0,0,0,0,0,0,0,0,0
+3,visiting family,venture,0,0,0,0,0,0,0,0,0,0,0,0
+4,high expectations,skeptical,0,0,0,0,0,0,0,0,0,0,0,0
+5,sashimi,spicy tuna roll,1,1,0,0,0,0,0,0,0,0,1,3
+6,high expectations,primanti brothers,0,0,0,0,0,0,0,0,0,0,0,0
+7,hayden,outback,0,0,0,0,0,0,0,0,0,0,0,0
+8,dinners,vegetarian options,0,0,0,0,0,0,0,0,0,0,0,0
+9,halibut,carpaccio,0,0,0,0,0,0,0,0,0,0,0,0
+10,high ceilings,wood,0,0,0,0,0,0,0,0,0,0,0,0
+11,wynn,mirage,0,0,0,0,0,0,0,0,0,0,0,0
+12,dinners,super hungry,0,0,0,0,0,0,0,0,0,0,0,0
+13,structure,exhibit,0,0,0,0,0,0,0,0,0,0,0,0
+14,sashimi,bento,0,1,0,0,0,0,0,0,0,0,0,1
+15,hayden,plaza,0,0,0,0,0,0,0,0,0,0,0,0
+16,dinners,servings,0,0,0,0,0,0,0,0,0,0,0,0
+17,paintings,adorned,0,0,0,0,0,0,0,0,0,0,0,0
+18,comfortable bed,appointed,0,0,0,0,0,0,0,0,0,0,0,0
+19,wynn,saguaro,0,0,0,0,0,0,0,0,0,0,0,0
+20,sashimi,karaage,0,0,0,0,0,0,0,0,0,0,0,0
+21,mesa,squirrel hill,0,0,0,0,0,0,0,0,0,0,0,0
+22,renowned,famous,0,0,0,0,0,0,0,0,0,0,0,0
+23,high ceilings,comfortable bed,0,0,0,0,0,0,0,0,0,0,0,0
+24,main dish,carne asada,0,0,0,0,0,0,0,0,0,0,0,0
+25,south hills,visiting family,0,0,0,0,0,0,0,0,0,0,0,0
+26,panang,satay,0,0,0,0,0,0,0,0,0,0,0,0
+27,visiting family,relatives,0,0,0,0,0,0,0,0,0,0,0,0
+28,high ceilings,paintings,0,0,0,0,0,0,0,0,0,0,0,0
+29,south hills,mont royal,0,0,0,0,0,0,0,0,0,0,0,0
+30,buffalo chicken wrap,fried chicken,0,0,0,0,0,0,0,0,0,0,0,0
+31,high ceilings,intimate,0,0,0,0,0,0,0,0,0,0,0,0
+32,halibut,rib eye,0,0,0,0,0,0,0,0,0,0,0,0
+33,main dish,sashimi,0,0,0,0,0,0,0,0,0,0,0,0
+34,chow mein,egg roll,0,0,0,0,0,0,0,0,0,0,0,0
+35,dinners,salads,0,0,0,0,0,0,0,0,0,0,0,0
+36,sidewalk,corner,0,0,0,0,0,0,0,0,0,0,0,0
+37,renowned,fox,0,0,0,0,0,0,0,0,0,0,0,0
+38,high ceilings,tile,0,0,0,0,0,0,0,0,0,0,0,0
+39,halibut,wagyu beef,0,0,0,0,0,0,0,0,0,0,0,0
+40,sidewalk,deck,0,0,0,0,0,0,0,0,0,0,0,0
+41,warm tones,dimly lit,0,0,0,0,0,0,0,0,0,0,0,0
+42,italian places,venues,0,0,0,0,0,0,0,0,0,0,0,0
+43,renowned,representation,0,0,0,0,0,0,0,0,0,0,0,0
+44,high ceilings,sidewalk,0,0,0,0,0,0,0,0,0,0,0,0
+45,paintings,carved wood,0,0,0,0,0,0,0,0,0,0,0,0
+46,contemporary,sophisticated,0,0,0,0,0,0,0,0,0,0,0,0
+47,buffalo chicken wrap,blackened salmon,0,0,0,0,0,0,0,0,0,0,0,0
+48,lounging,outdoor patio,0,0,0,0,0,0,0,0,0,0,0,0
+49,carne asada,chimichanga,0,0,0,0,0,0,0,0,0,0,0,0
+50,visiting family,christmas eve,0,0,0,0,0,0,0,0,0,0,0,0
+51,sidewalk,entrance,0,0,0,0,0,0,0,0,0,0,0,0
+52,high expectations,officially,0,0,0,0,0,0,0,0,0,0,0,0
+53,structure,houses,0,0,0,0,0,0,0,0,0,0,0,0
+54,visiting family,bike ride,0,0,0,0,0,0,0,0,0,0,0,0
+55,chow mein,bulgogi,0,0,0,0,0,0,0,0,0,0,0,0
+56,halibut,seared scallops,0,0,0,0,0,0,0,0,0,0,0,0
+57,hayden,pkwy,0,0,0,0,0,0,0,0,0,0,0,0
+58,hayden,starbucks,0,0,0,0,0,0,0,0,0,0,0,0
+59,wood,lanterns,0,0,0,0,0,0,0,0,0,0,0,0
+60,chow mein,dumpling,0,0,0,0,0,0,0,0,0,0,0,0
+61,ny,rival,0,0,0,0,0,0,0,0,0,0,0,0
+62,paintings,paintings,0,0,0,0,0,1,0,1,0,0,0,2
+63,mesa,summerlin,0,0,0,0,0,0,0,0,0,0,0,0
+64,main dish,dinners,0,0,0,0,0,0,0,0,0,0,0,0
+65,hayden,scottsdale quarter,0,0,0,0,0,0,0,0,0,0,0,0
+66,high ceilings,structure,0,0,0,0,0,0,0,0,0,0,0,0
+67,south hills,high expectations,0,0,0,0,0,0,0,0,0,0,0,0
+68,halibut,risotto,0,0,0,0,0,0,0,0,0,0,0,0
+69,paintings,colors,0,0,0,0,0,0,0,0,0,0,0,0
+70,chow mein,cantonese,1,0,0,0,0,1,0,0,0,0,0,2
+71,lasagna,cavatelli,0,0,0,0,0,0,0,0,0,0,0,0
+72,main dish,buffalo chicken wrap,0,0,0,0,0,0,0,0,0,0,0,0
+73,korma,chicken tikka masala,0,0,0,0,0,0,0,0,0,1,0,1
+74,sashimi,octopus,1,0,0,0,0,0,0,0,0,0,1,2
+75,ny,san diego,0,0,0,0,0,0,0,0,0,0,0,0
+76,mont royal,uptown,0,0,0,0,0,0,0,0,0,0,0,0
+77,italian places,pizza joints,0,0,0,0,0,0,0,0,0,0,0,0
+78,main dish,korma,0,0,0,0,0,0,0,0,0,0,0,0
+79,south hills,wine bar,0,0,0,0,0,0,0,0,0,0,0,0
+80,italian places,stores,0,0,0,0,0,0,0,0,0,0,0,0
+81,visiting family,trip,0,0,0,0,0,0,0,0,0,0,0,0
+82,dinners,19,0,0,0,0,0,0,0,1,0,0,0,1
+83,south hills,ny,0,0,0,0,0,0,0,0,0,0,0,0
+84,lasagna,caprese salad,0,0,0,0,0,0,0,0,0,0,0,0
+85,main dish,lasagna,0,0,0,0,0,0,0,0,0,0,0,0
+86,halibut,calamari,0,0,0,0,0,0,0,0,0,0,0,0
+87,mont royal,walking distance,0,0,0,0,0,0,0,0,0,0,0,0
+88,sidewalk,separated,0,0,0,0,0,0,0,0,0,0,0,0
+89,carne asada,posole,0,0,0,0,0,0,0,0,0,0,0,0
+90,lasagna,fettucine,0,0,0,0,0,0,0,0,0,0,0,0
+91,chow mein,rare beef,0,0,0,0,0,0,0,0,0,0,0,0
+92,renowned,inspired,0,0,0,0,0,0,0,0,0,0,0,0
+93,renowned,ultimate,0,0,0,0,0,0,0,0,0,0,0,0
+94,mesa,madison,0,0,0,0,0,0,0,0,0,0,0,0
+95,mont royal,intersection,0,0,0,0,0,0,0,0,0,0,0,0
+96,italian places,thai places,0,0,0,0,0,0,0,0,0,0,0,0
+97,renowned,community,0,0,0,0,0,0,0,0,0,0,0,0
+98,babaganoush,baba ganoush,0,0,0,0,0,0,0,0,0,0,0,0
+99,ny,san francisco,0,0,0,0,0,0,0,0,0,0,0,0
+100,tile,mirrors,0,0,0,0,0,0,0,0,0,0,0,0
+101,ny,seattle,0,0,0,0,0,0,0,0,0,0,0,0
+102,panang,drunken noodles,0,0,0,0,0,0,0,0,0,0,0,0
+103,ny,memphis,0,0,0,0,0,0,0,0,0,0,0,0
+104,buffalo chicken wrap,cajun,0,0,0,0,0,0,0,0,0,0,0,0
+105,wood,brick walls,1,1,0,0,0,1,1,1,0,0,1,6
+106,lounging,screens,0,0,0,0,0,0,0,0,0,0,0,0
+107,hayden,durango,0,0,0,0,0,0,0,0,0,0,0,0
+108,buffalo chicken wrap,chicken tenders,0,0,0,0,0,0,0,0,0,0,0,0
+109,buffalo chicken wrap,fried zucchini,0,0,0,0,0,0,0,0,0,0,0,0
+110,chow mein,udon,0,0,0,0,0,0,0,0,0,0,0,0
+111,south hills,italian places,0,0,0,0,0,0,0,0,0,0,0,0
+112,mesa,mesa,0,1,0,0,0,0,1,0,0,0,0,2
+113,wood,sofas,0,0,0,0,0,0,0,0,0,0,0,0
+114,dinners,entree,0,0,0,0,0,0,0,0,0,0,0,0
+115,visiting family,2006,0,0,0,0,0,0,0,0,0,0,0,0
+116,mont royal,uw,0,0,0,0,0,0,0,0,0,0,0,0
+117,italian places,cheaper,0,0,0,0,0,0,0,0,0,0,0,0
+118,contemporary,minimalist,0,0,0,0,0,0,0,0,0,0,0,0
+119,lounging,outdoors,0,0,0,0,0,0,0,0,0,0,0,0
+120,south hills,renowned,0,0,0,0,0,0,0,0,0,0,0,0
+121,high expectations,high expectations,0,0,0,0,0,0,0,0,0,0,0,0
+122,lounging,lounge area,0,0,0,0,0,0,0,0,0,0,0,0
+123,main dish,babaganoush,0,0,0,0,0,0,0,0,0,0,0,0
+124,halibut,pork loin,0,0,0,0,0,0,0,0,0,0,0,0
+125,buffalo chicken wrap,reuben sandwich,0,0,0,0,0,0,0,0,0,0,0,0
+126,korma,vindaloo,0,0,0,0,0,0,0,0,0,0,0,0
+127,renowned,hot spot,0,0,0,0,0,0,0,0,0,0,0,0
+128,wine bar,sushi joint,0,0,0,0,0,0,0,0,0,0,0,0
+129,halibut,scallops,0,0,0,0,0,0,0,0,0,0,0,0
+130,main dish,chow mein,0,0,0,0,0,0,0,0,0,0,0,0
+131,buffalo chicken wrap,portabello,0,0,0,0,0,0,0,0,0,0,0,0
+132,wynn,del frisco,0,0,0,0,0,0,0,0,0,0,0,0
+133,chow mein,oyster sauce,0,0,0,0,0,0,0,0,0,0,0,0
+134,chow mein,tofu,0,0,0,0,0,0,0,0,0,0,0,0
+135,ny,thailand,0,0,0,0,0,0,0,0,0,0,0,0
+136,main dish,halibut,0,0,0,0,0,0,0,0,1,0,0,1
+137,tile,tile,0,0,0,0,0,1,0,1,1,0,1,4
+138,carne asada,enchiladas,0,1,0,0,0,0,0,0,0,0,0,1
+139,wood,comfortable chairs,0,0,0,0,0,0,0,0,0,0,0,0
+140,mont royal,metro station,0,0,0,0,0,0,0,0,0,0,0,0
+141,halibut,halibut,0,0,0,0,0,0,0,0,0,0,0,0
+142,hayden,shea,0,0,0,0,0,0,0,0,0,0,0,0
+143,sashimi,sashimi,1,1,0,0,0,1,1,1,0,0,1,6
+144,ny,katz,1,0,0,0,0,0,0,0,0,0,0,1
+145,contemporary,modern,0,1,0,0,0,0,0,0,0,0,0,1
+146,visiting family,lived,0,0,0,0,0,0,0,0,0,0,0,0
+147,carne asada,catfish,0,0,0,0,0,0,0,0,0,0,0,0
+148,carne asada,pollo,0,0,0,0,0,0,0,0,0,0,0,0
+149,ny,wisconsin,0,0,0,0,0,0,0,0,0,0,0,0
+150,high ceilings,contemporary,0,0,0,0,0,0,0,0,0,0,0,0
+151,halibut,king crab legs,0,0,0,0,0,0,0,0,0,0,0,0
+152,lasagna,brother,0,0,0,0,0,0,0,0,0,0,0,0
+153,ny,transplanted,0,0,0,0,0,0,0,0,0,0,0,0
+154,chow mein,lo mein,1,0,0,0,0,1,0,0,0,0,1,3
+155,high ceilings,warm tones,0,0,0,0,0,0,0,0,0,0,0,0
+156,wood,archways,0,0,0,0,0,0,0,0,0,0,0,0
+157,panang,tom kha,0,0,0,0,0,0,0,0,0,0,0,0
+158,main dish,panang,0,0,0,0,0,0,0,0,0,0,0,0
+159,dinners,prix fixe menu,0,0,0,0,0,0,0,1,0,0,0,1
+160,wynn,marriott,0,1,0,0,0,0,0,0,0,0,0,1
+161,south hills,hayden,0,0,0,0,0,0,0,0,0,0,0,0
+162,contemporary,vibe,0,0,0,0,0,0,0,0,0,0,0,0
+163,hayden,south,0,0,0,0,0,0,0,0,0,0,0,0
+164,ny,neapolitan,0,0,0,0,0,0,0,0,0,0,0,0
+165,wine bar,italian deli,0,0,0,0,0,0,0,0,0,0,0,0
+166,south hills,wynn,0,0,0,0,0,0,0,0,0,0,0,0
+167,lasagna,chicken parm,0,0,0,0,0,0,0,0,0,0,0,0
+168,hayden,chandler location,0,0,0,0,0,0,0,0,0,0,0,0
