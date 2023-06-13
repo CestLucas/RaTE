@@ -1,0 +1,525 @@
+,hypernym,hyponym,{token} [MASK],[MASK] {token},is a,is an,kind of,type of,example of,such as,a such as,an such as,favorite,sum
+0,seafood,mussel,0,1,0,0,1,1,1,1,1,0,1,7
+1,seafood,clam,0,0,0,0,0,0,0,1,0,0,0,1
+2,seafood,lobster,0,0,0,0,1,1,1,1,1,1,1,7
+3,seafood,oyster,0,0,0,0,1,1,1,1,1,1,1,7
+4,seafood,shrimp,0,0,0,0,1,1,1,1,1,1,1,7
+5,seafood,scallop,0,0,0,0,0,0,0,1,0,0,0,1
+6,seafood,crab,0,0,0,0,1,1,1,1,1,1,1,7
+7,seafood,chicken,0,0,0,0,0,0,0,1,1,0,0,2
+8,seafood,salmon,0,0,0,0,1,1,0,1,1,1,1,6
+9,seafood,fish,0,0,0,0,1,1,1,1,1,1,1,7
+10,seafood,pork,0,0,0,0,0,0,0,1,1,0,0,2
+11,seafood,octopus,0,0,0,0,1,1,1,1,1,1,1,7
+12,seafood,beef,0,0,0,0,0,0,0,1,0,0,0,1
+13,seafood,steak,0,0,0,0,0,0,0,1,1,0,0,2
+14,seafood,meat,0,0,0,0,0,0,0,1,1,0,0,2
+15,seafood,tofu,0,1,0,0,0,0,0,1,0,0,0,2
+16,seafood,duck,0,0,0,0,0,0,0,1,1,0,0,2
+17,seafood,avocado,0,0,0,0,0,0,0,1,0,0,0,1
+18,seafood,sausage,0,0,0,0,0,0,0,1,0,0,0,1
+19,seafood,rice,0,0,0,0,0,0,0,1,0,0,0,1
+20,seafood,brisket,0,1,0,0,0,0,0,1,0,0,0,2
+21,seafood,crawfish,0,1,0,0,1,1,1,1,1,0,1,7
+22,seafood,pork belly,0,0,0,0,0,0,0,1,0,0,0,1
+23,seafood,prime rib,0,0,0,0,0,1,0,1,1,1,1,5
+24,salad,wedge salad,1,0,1,0,1,1,0,0,1,0,1,6
+25,salad,cesar salad,1,1,1,0,1,1,0,0,1,0,1,7
+26,salad,mixed green,1,1,1,0,1,1,0,0,1,1,1,8
+27,salad,sandwich,1,0,1,0,1,1,0,0,1,0,1,6
+28,salad,caesar,1,1,1,0,1,1,0,1,1,1,1,9
+29,salad,caesar salad,1,1,1,0,1,1,0,0,1,0,1,7
+30,salad,volcano,1,0,0,0,0,0,0,0,0,0,0,1
+31,salad,hamburger,1,0,0,0,0,0,0,0,0,0,0,1
+32,salad,bloody mary,0,0,0,0,0,0,0,0,0,0,0,0
+33,salad,kale,1,0,0,0,0,1,0,0,0,0,1,3
+34,salad,pre package,0,0,0,0,0,0,0,0,0,0,1,1
+35,salad,mediterranean,1,0,1,0,1,1,0,0,1,0,1,6
+36,salad,basic,1,1,1,0,1,1,0,0,1,0,1,7
+37,salad,mixed greens,1,1,1,0,1,1,0,1,1,1,1,9
+38,salad,apple,1,0,1,0,1,1,0,0,1,0,1,6
+39,salad,greek,1,1,0,0,1,1,0,0,1,0,1,6
+40,salad,house,1,0,0,0,0,1,0,0,0,0,1,3
+41,salad,seaweed,1,0,0,0,1,1,0,0,1,0,1,5
+42,salad,grill chicken,1,0,0,0,0,1,0,0,1,0,1,4
+43,salad,green,1,1,1,0,1,1,0,0,1,0,1,7
+44,salad,tuscan,1,0,0,0,0,0,0,0,0,0,1,2
+45,salad,pre mixed,0,0,0,0,0,0,0,0,0,0,1,1
+46,salad,cabbage,1,0,1,0,1,1,0,0,1,0,1,6
+47,salad,vegetarian,1,0,0,0,0,1,0,0,0,0,1,3
+48,salad,spinach,1,0,0,0,1,1,0,0,1,0,1,5
+49,salad,above mention,0,0,0,0,0,0,0,0,0,0,0,0
+50,salad,npl,0,0,0,0,0,0,0,0,0,0,0,0
+51,salad,freshly make,0,0,0,0,0,1,0,0,0,0,1,2
+52,salad,garden,1,1,0,0,0,1,0,0,0,0,1,4
+53,salad,tomato,1,0,1,0,1,1,0,1,1,0,1,7
+54,salad,quinoa,1,0,0,0,0,1,0,0,0,0,1,3
+55,salad,collard green,1,0,1,0,1,1,0,0,1,0,1,6
+56,salad,mustard green,1,0,1,0,1,1,0,0,1,0,1,6
+57,salad,apricot,0,0,0,0,0,1,0,0,0,0,1,2
+58,salad,chard,0,0,0,0,0,0,0,0,0,0,1,1
+59,salad,field green,1,1,1,0,1,1,0,0,1,0,1,7
+60,salad,papaya,1,0,0,0,0,1,0,0,0,0,1,3
+61,salad,chateaubriand,0,0,0,0,0,0,0,0,0,0,0,0
+62,salad,blueberry,1,0,0,0,0,1,0,0,0,0,0,2
+63,salad,melon,1,0,0,0,0,1,0,0,0,0,1,3
+64,salad,kiwi,1,0,0,0,0,0,0,0,0,0,0,1
+65,salad,plum,1,0,0,0,1,1,0,0,1,0,1,5
+66,salad,hot dog,0,0,0,0,0,0,0,0,0,0,0,0
+67,salad,virgin mary,1,0,0,0,0,0,0,0,0,0,0,1
+68,salad,raspberry,1,0,0,0,1,1,0,0,1,0,0,4
+69,salad,black sea,0,0,0,0,0,0,0,0,0,0,0,0
+70,salad,baltic,1,0,0,0,0,0,0,0,0,0,0,1
+71,salad,prune,1,0,0,0,0,0,0,0,0,0,1,2
+72,salad,raisin,1,0,0,0,0,1,0,0,0,0,0,2
+73,salad,meatball,1,0,0,0,0,0,0,0,0,0,0,1
+74,salad,savoury crepe,0,0,0,0,0,0,0,0,0,0,0,0
+75,salad,roast peanut,1,0,0,0,0,0,0,0,0,0,0,1
+76,salad,broccoli,1,0,0,0,1,1,0,0,1,0,1,5
+77,salad,cranberry,1,0,0,0,1,1,0,0,1,0,1,5
+78,salad,ham cheese sandwich,1,0,1,0,1,1,0,0,1,0,1,6
+79,salad,collar green,1,0,1,0,1,1,0,0,1,0,1,6
+80,salad,sliced strawberry,1,0,0,0,1,1,0,0,1,0,1,5
+81,salad,papayas,1,0,0,0,0,1,0,0,0,0,1,3
+82,salad,hard shell,0,0,0,0,0,0,0,0,0,0,0,0
+83,salad,mangoes,1,0,0,0,1,1,0,0,1,0,1,5
+84,salad,macaroni,1,0,0,0,1,1,0,0,1,0,1,5
+85,salad,club sandwich,1,0,0,0,1,1,0,0,1,0,1,5
+86,salad,antipasto,1,0,0,0,0,1,0,0,0,0,1,3
+87,salad,blackberry,1,0,0,0,1,1,0,0,1,0,0,4
+88,salad,sundae,0,0,0,0,0,0,0,0,0,0,0,0
+89,salad,chef,1,1,0,0,0,0,0,0,0,0,0,2
+90,salad,nice,0,1,1,0,0,1,0,0,1,0,1,5
+91,salad,cauliflower,1,0,0,0,0,1,0,0,1,0,1,4
+92,salad,brussels sprout,1,1,1,0,1,1,0,0,1,0,1,7
+93,salad,celery,1,0,0,0,0,1,0,0,0,0,1,3
+94,salad,green bean,1,0,0,0,1,1,0,0,1,0,1,5
+95,salad,string beans,1,0,0,0,0,0,0,0,0,0,0,1
+96,salad,barley,1,0,0,0,0,0,0,0,0,0,0,1
+97,salad,pepper,1,0,0,0,0,0,0,0,0,0,0,1
+98,salad,turkey,1,0,0,0,0,0,0,0,1,0,0,2
+99,salad,mushroom,1,0,1,0,1,0,0,0,0,0,0,3
+100,salad,millet,1,0,0,0,0,1,0,0,0,0,1,3
+101,salad,asparagus,1,1,0,0,1,1,0,0,1,0,1,6
+102,salad,squash,1,0,1,0,1,1,0,0,1,0,1,6
+103,salad,brussel sprout,0,0,0,0,0,1,0,0,1,0,1,3
+104,salad,bok choy,0,0,0,0,0,0,0,0,0,0,0,0
+105,salad,oat,0,0,0,0,0,1,0,0,0,0,1,2
+106,dessert,ice cream,1,0,1,0,1,1,1,1,1,1,1,9
+107,dessert,cake,1,0,1,0,1,1,1,1,1,1,1,9
+108,dessert,pastries,0,0,0,0,1,1,0,1,1,0,1,5
+109,dessert,sauce,0,0,0,0,0,0,0,0,0,0,0,0
+110,dessert,gelato,1,0,0,0,1,1,0,1,1,0,1,6
+111,dessert,latte,0,0,0,0,1,1,0,1,1,0,1,5
+112,dessert,cheesecake,1,0,0,0,1,1,1,1,1,0,1,7
+113,dessert,milkshake,0,0,0,0,1,1,0,0,1,0,1,4
+114,dessert,cupcake,1,1,0,0,1,1,1,1,1,0,1,8
+115,dessert,taste,0,0,0,0,0,0,0,0,0,0,1,1
+116,dessert,cream,0,0,1,0,1,1,0,0,1,0,1,5
+117,dessert,smoothie,1,1,0,0,1,1,0,1,1,0,1,7
+118,dessert,pancake,0,0,0,0,1,1,0,1,1,0,1,5
+119,dessert,waffle,0,0,0,0,1,1,0,1,1,0,1,5
+120,dessert,mousse,0,0,0,0,1,1,0,0,1,0,1,4
+121,dessert,bread pudding,1,1,1,0,1,1,1,1,1,1,1,10
+122,dessert,muffin,0,0,0,0,1,1,0,1,1,0,1,5
+123,dessert,french toast,1,1,1,0,1,1,1,1,1,1,1,10
+124,dessert,syrup,0,0,0,0,1,1,0,0,1,0,1,4
+125,dessert,butter,0,0,0,0,1,1,0,0,1,0,1,4
+126,dessert,lemonade,1,1,0,0,1,1,1,1,1,0,1,8
+127,dessert,croissant,0,0,0,0,1,1,0,1,1,0,1,5
+128,dessert,sorbet,0,0,0,0,0,1,0,0,0,0,1,2
+129,dessert,tea,0,0,1,0,1,1,1,1,1,0,1,7
+130,dessert,mojito,0,0,0,0,1,1,0,0,0,0,1,3
+131,dessert,scone,0,0,0,0,1,0,0,0,1,0,1,3
+132,appetizer,fry calamari,1,0,0,1,1,1,0,0,0,1,1,6
+133,appetizer,stuff mushroom,1,0,0,1,1,1,0,1,0,1,1,7
+134,appetizer,fry zucchini,1,0,0,1,1,1,0,1,0,1,1,7
+135,appetizer,fry,1,0,0,1,1,1,0,0,0,1,1,6
+136,appetizer,shaker,0,0,0,0,0,0,0,0,0,1,0,1
+137,appetizer,squid,1,0,1,1,1,1,0,0,0,1,1,7
+138,appetizer,waiter waitress,0,0,0,0,0,0,0,0,0,0,0,0
+139,appetizer,curly fry,0,0,0,1,1,1,0,0,0,1,1,5
+140,appetizer,pineapple,0,0,0,1,1,0,0,0,0,1,0,3
+141,appetizer,smash potato,0,0,0,1,1,1,0,0,0,1,1,5
+142,appetizer,acoustic,0,0,0,0,0,0,0,0,0,0,0,0
+143,appetizer,apple butter,0,0,0,1,1,0,0,0,0,1,1,4
+144,appetizer,portion size,0,0,0,1,0,1,0,0,0,1,0,3
+145,appetizer,lettuce,0,0,0,1,0,0,0,0,0,1,1,3
+146,appetizer,halibut,1,0,0,1,1,1,0,0,0,1,1,6
+147,appetizer,carrot,0,0,0,1,1,0,0,0,0,1,1,4
+148,appetizer,jalapeno popper,0,0,0,1,0,0,0,0,0,1,1,3
+149,appetizer,lamb chop,1,0,0,1,1,1,0,0,0,1,1,6
+150,appetizer,egg benedict,1,0,0,1,1,0,0,0,0,1,1,5
+151,appetizer,egg,0,0,0,1,1,0,0,0,0,1,1,4
+152,appetizer,mash potato,0,0,0,1,1,0,0,0,0,1,1,4
+153,appetizer,refried bean,1,0,0,1,0,0,0,0,0,1,0,3
+154,appetizer,potato,0,0,0,1,1,0,0,0,0,1,1,4
+155,appetizer,spice,0,0,0,1,0,0,0,0,0,1,0,2
+156,appetizer,nacho,0,0,0,1,0,0,0,0,0,1,1,3
+157,appetizer,fried wonton,1,0,0,1,1,1,0,0,0,1,1,6
+158,appetizer,noodle,0,0,0,1,0,0,0,0,0,1,1,3
+159,appetizer,curry,0,0,0,1,0,0,0,0,0,1,1,3
+160,appetizer,dumpling,0,0,0,1,0,1,0,0,0,1,1,4
+161,appetizer,spring roll,1,0,0,1,1,1,0,1,1,1,1,8
+162,appetizer,sticky ribs,1,0,0,1,1,1,0,0,1,1,1,7
+163,appetizer,homemade salsas,1,0,0,1,1,1,0,0,0,1,1,6
+164,appetizer,b nh,0,0,0,1,0,0,0,0,0,1,0,2
+165,appetizer,lamb bolognese,1,1,1,1,1,1,0,1,1,1,1,10
+166,appetizer,fried brussel sprout,0,0,0,1,0,0,0,1,1,1,1,5
+167,appetizer,lime cilantro,1,0,0,1,0,0,0,0,0,1,1,4
+168,appetizer,hamachi crudo,1,0,0,1,0,0,0,0,0,1,1,4
+169,appetizer,tangy sauce,0,0,0,1,0,0,0,0,0,1,1,3
+170,appetizer,crispy ginger beef,1,1,1,1,1,1,0,1,1,1,1,10
+171,appetizer,hearty broth,0,0,0,1,0,0,0,0,0,1,1,3
+172,appetizer,vegetable,1,0,0,1,1,0,0,0,0,1,1,5
+173,appetizer,chili,0,0,0,1,0,0,0,0,0,1,1,3
+174,appetizer,hash brown,0,0,0,1,0,0,0,0,0,1,0,2
+175,appetizer,french fry,1,1,0,1,1,1,0,0,0,1,1,7
+176,appetizer,slider,1,0,0,1,0,1,0,0,0,1,1,5
+177,appetizer,home fry,0,0,0,1,0,0,0,0,0,1,1,3
+178,appetizer,onion,0,0,0,1,1,0,0,0,0,1,1,4
+179,appetizer,tortilla,0,0,0,1,0,0,0,0,0,1,1,3
+180,appetizer,poutine,0,0,0,1,0,0,0,0,0,1,1,3
+181,appetizer,jack cheese,0,0,0,1,1,0,0,0,0,1,1,4
+182,appetizer,tikki masala,1,1,0,1,0,1,0,0,0,1,1,6
+183,appetizer,bisque soup,1,0,0,1,1,0,0,0,0,1,1,5
+184,appetizer,avo toast,1,0,0,1,1,1,0,0,0,1,1,6
+185,appetizer,street tacos,1,1,0,1,1,1,0,1,1,1,1,9
+186,appetizer,seared albacore,1,0,0,1,1,0,0,0,0,1,1,5
+187,appetizer,kahlua pork,1,0,0,1,1,1,0,0,0,1,1,6
+188,appetizer,frisee salad,1,0,0,1,1,1,0,1,1,1,1,8
+189,appetizer,yellowtail carpaccio,1,1,0,1,1,1,0,0,0,1,1,7
+190,appetizer,roast squash,1,1,0,1,1,1,0,1,1,1,1,9
+191,appetizer,pad tai,0,0,0,1,1,1,0,0,0,1,1,5
+192,appetizer,grit,0,0,0,1,0,0,0,0,0,1,1,3
+193,appetizer,pretzel,0,0,0,1,0,0,0,0,0,1,1,3
+194,food,food quality,1,1,0,0,0,1,0,0,0,0,1,4
+195,food,no real complaint,0,1,0,0,1,1,1,1,0,0,1,6
+196,food,table side guac,0,1,0,0,1,1,1,1,0,0,1,6
+197,food,starbucks,1,0,0,0,1,1,0,1,0,0,1,5
+198,food,no complaint,0,1,0,0,0,1,0,1,0,0,1,4
+199,food,4 . 5 star,1,1,0,0,1,1,1,1,1,0,1,8
+200,food,4 star,1,1,0,0,1,1,1,1,1,0,1,8
+201,food,3 star,1,1,0,0,1,1,1,1,1,0,1,8
+202,food,5 star,1,1,0,0,1,1,1,1,1,0,1,8
+203,food,four star,1,1,0,0,1,1,1,1,0,0,1,7
+204,food,five star,1,1,0,0,1,1,1,1,0,0,1,7
+205,food,three star,1,1,0,0,1,1,1,1,1,0,1,8
+206,food,1 star,1,1,0,0,0,1,1,1,1,0,1,7
+207,food,no worry,0,0,0,0,0,1,0,1,0,0,1,3
+208,food,no big deal,1,1,0,0,1,1,0,1,0,0,1,6
+209,food,zero complaint,0,1,0,0,0,1,0,1,0,0,1,4
+210,food,no problem,0,0,0,0,0,1,0,1,0,0,1,3
+211,food,zero star,1,1,0,0,1,1,1,1,0,0,1,7
+212,food,0 star,1,1,0,0,1,1,1,1,1,0,1,8
+213,food,an extra star,1,1,0,0,0,0,1,1,0,0,1,5
+214,food,negative star,1,1,0,0,0,1,1,1,0,0,1,6
+215,food,big deal,0,1,0,0,1,1,1,1,0,0,1,6
+216,food,3 . 5 star,1,1,0,0,1,1,1,1,1,0,1,8
+217,food,star,1,1,0,0,1,0,1,1,1,0,1,7
+218,food,an add bonus,0,1,0,0,0,0,1,1,0,0,1,4
+219,sushi,sashimi,1,1,0,0,0,1,1,1,0,0,1,6
+220,sushi,spicy tuna,1,0,0,0,0,1,1,1,1,0,1,6
+221,sushi,yellow tail,1,0,0,0,0,1,1,1,1,0,1,6
+222,sushi,spicy salmon,1,1,0,0,0,1,1,1,0,0,1,6
+223,sushi,tuna,1,0,0,0,0,1,1,1,1,0,1,6
+224,sushi,california,0,1,0,0,0,0,1,0,0,0,1,3
+225,sushi,rainbow,1,1,0,0,0,1,0,0,0,0,1,4
+226,sushi,dragon,1,1,0,0,0,1,1,1,0,0,1,6
+227,sushi,dynamite,1,1,0,0,1,1,1,1,0,0,1,7
+228,sushi,spider,1,1,0,0,0,1,1,0,0,0,1,5
+229,sushi,eel,1,1,0,0,1,1,1,1,1,0,1,8
+230,sushi,tempura,0,0,0,0,0,0,0,0,0,0,0,0
+231,sushi,philadelphia,0,0,0,0,0,0,0,0,0,0,0,0
+232,sushi,ahi tuna,1,0,0,0,0,1,1,1,1,0,1,6
+233,sushi,vegas,0,0,0,0,0,0,1,0,0,0,1,2
+234,sushi,tiger,1,0,0,0,0,0,0,0,0,0,0,1
+235,sushi,las vegas,0,0,0,0,0,0,1,0,0,0,0,1
+236,sushi,cinnamon,0,0,0,0,0,0,0,0,0,0,0,0
+237,sushi,spicy scallop,0,0,0,0,0,0,0,0,0,0,0,0
+238,sushi,cucumber,0,0,0,0,0,0,0,0,0,0,0,0
+239,sushi,soft shell crab,1,0,0,0,0,1,1,1,0,0,1,5
+240,sushi,hawaiian,0,0,0,0,0,0,1,0,0,0,1,2
+241,sushi,cali,0,0,0,0,0,0,0,0,0,0,0,0
+242,desert,creme brulee,0,0,0,0,0,0,0,0,1,0,1,2
+243,desert,cannoli,0,0,0,0,0,0,0,0,0,0,0,0
+244,desert,tiramisu,0,0,0,0,0,0,0,0,0,0,0,0
+245,desert,flan,0,0,0,0,0,0,0,0,0,0,0,0
+246,desert,chocolate cake,1,0,0,0,1,1,0,1,1,1,1,7
+247,desert,chocolate,1,0,1,0,1,1,0,0,1,0,1,6
+248,desert,baklava,0,0,0,0,0,0,0,0,0,0,0,0
+249,desert,pastry,0,0,0,0,1,1,0,0,1,0,1,4
+250,desert,strawberry,0,0,0,0,1,1,0,0,1,0,1,4
+251,desert,custard,0,0,0,0,0,0,0,0,0,0,0,0
+252,desert,cassoulet,0,0,0,0,0,0,0,0,0,0,0,0
+253,desert,ratatouille,0,0,0,0,0,0,0,0,0,0,0,0
+254,desert,panna cotta,0,0,0,0,0,0,0,0,0,0,0,0
+255,desert,biscotti,0,0,0,0,0,0,0,0,0,0,0,0
+256,desert,torte,0,0,0,0,0,0,0,0,0,0,0,0
+257,desert,creme brule,0,0,0,0,0,0,0,0,1,0,1,2
+258,desert,key lime,0,0,0,0,0,0,0,0,0,0,0,0
+259,desert,pecan pie,0,0,0,0,0,0,0,0,0,0,1,1
+260,desert,flourless chocolate cake,1,0,0,0,1,1,0,1,1,0,1,6
+261,desert,chocolate chip cookie,1,0,0,0,1,1,0,1,1,0,1,6
+262,desert,triple chocolate,0,0,0,0,1,1,0,0,1,0,1,4
+263,desert,brownie sundae,1,1,0,0,0,1,0,0,1,0,1,5
+264,desert,meringue,0,0,0,0,0,0,0,0,0,0,0,0
+265,desert,mud pie,0,0,0,0,1,1,0,0,1,0,1,4
+266,desert,strawberry shortcake,1,1,0,0,1,1,0,1,1,0,1,7
+267,desert,salted caramel,0,0,0,0,0,0,0,0,0,0,1,1
+268,desert,praline,0,0,0,0,0,0,0,0,0,0,0,0
+269,desert,salted carmel,0,0,0,0,1,0,0,0,0,0,0,1
+270,desert,napoleon,0,0,0,0,1,0,0,0,1,0,1,3
+271,desert,pistachio,0,0,0,0,0,0,0,0,0,0,0,0
+272,desert,nutella,0,0,0,0,0,0,0,0,0,0,0,0
+273,desert,butterscotch,0,0,0,0,0,0,0,0,0,0,0,0
+274,desert,crack pie,0,0,0,0,1,1,0,0,0,0,1,3
+275,desert,apple pie,1,0,0,0,1,1,0,1,1,0,1,6
+276,desert,pot de creme,0,0,0,0,1,0,0,0,1,0,1,3
+277,desert,salt caramel,0,0,0,0,1,1,0,0,1,0,1,4
+278,desert,sticky bun,0,0,0,0,0,0,0,0,0,0,0,0
+279,pizza,thin crust,1,1,1,0,1,1,1,1,1,0,1,9
+280,pizza,calzone,1,1,0,0,1,1,1,1,1,0,1,8
+281,pizza,pepperoni,1,1,0,0,1,1,1,1,1,0,1,8
+282,pizza,white,1,0,0,0,0,1,0,0,1,0,1,4
+283,pizza,deep dish,1,1,0,0,1,1,1,1,1,0,1,8
+284,pizza,ny style,1,1,0,0,1,1,1,1,1,0,1,8
+285,pizza,gluten free,1,0,0,0,1,1,0,0,0,0,1,4
+286,pizza,new york style,1,1,1,0,1,1,1,1,1,0,1,9
+287,pizza,ny,1,1,0,0,1,1,1,1,0,0,1,7
+288,pizza,chicago style,1,1,1,0,1,1,1,1,1,0,1,9
+289,pizza,new york,1,1,0,0,1,1,1,1,1,0,1,8
+290,pizza,gourmet,1,0,0,0,1,1,1,0,0,0,1,5
+291,pizza,sicilian,1,1,1,0,1,1,1,1,1,1,1,10
+292,coffee,cold brew,1,1,0,0,1,1,1,1,1,0,1,8
+293,coffee,drip coffee,1,1,0,0,1,1,1,1,1,0,1,8
+294,coffee,vietnamese,1,0,0,0,0,1,1,1,0,0,1,5
+295,coffee,black,1,1,0,0,1,1,1,1,1,0,1,8
+296,coffee,ice,1,1,0,0,0,1,1,0,0,0,1,5
+297,coffee,cappuccino,0,0,0,0,0,0,0,0,0,0,0,0
+298,coffee,thai,1,0,0,0,0,0,0,0,0,0,0,1
+299,coffee,espresso,0,0,0,0,0,0,0,0,0,0,1,1
+300,coffee,milk,1,1,0,0,1,1,1,0,0,0,1,6
+301,coffee,lunch special,0,0,0,0,0,0,0,0,0,0,0,0
+302,coffee,french press,1,1,0,0,1,1,1,1,1,0,1,8
+303,bread,sour dough,1,1,0,0,1,1,1,1,1,0,1,8
+304,bread,focaccia,0,0,0,0,0,1,0,0,0,0,0,1
+305,bread,ciabatta bread,1,1,0,0,1,1,1,1,1,1,1,9
+306,bread,sourdough,0,0,0,0,0,1,0,0,0,0,0,1
+307,bread,garlic,1,0,0,0,1,1,1,1,0,0,1,6
+308,bread,french,1,0,0,0,1,1,0,1,0,0,1,5
+309,bread,corn,1,1,0,0,1,1,1,1,0,0,1,7
+310,bread,wheat,1,1,1,0,1,1,1,1,1,1,1,10
+311,bread,italian,1,0,0,0,0,1,0,0,0,0,0,2
+312,bread,naan,0,0,0,0,0,1,0,0,0,0,0,1
+313,bread,planet earth,0,0,0,0,0,1,0,0,0,0,0,1
+314,bread,fresh baked,1,1,0,0,1,1,0,1,0,0,1,6
+315,bread,monkey,1,1,0,0,1,1,0,1,0,0,1,6
+316,bread,brioche,0,0,0,0,0,1,0,0,0,0,0,1
+317,bread,challah,1,0,0,0,0,1,0,0,0,0,1,3
+318,bread,warm pita,1,1,0,0,1,1,1,1,1,0,1,8
+319,bread,texas,0,0,0,0,0,0,0,0,0,0,0,0
+320,bread,freshly bake,1,1,0,0,0,1,0,0,0,0,0,3
+321,bread,white bread,1,1,0,0,1,1,1,1,1,1,1,9
+322,bread,baguette,0,0,0,0,0,1,0,0,0,0,0,1
+323,bread,banana nut,1,0,0,0,1,1,1,1,0,0,1,6
+324,bread,multi grain,1,1,0,0,1,1,1,1,1,0,1,8
+325,bread,injera,0,0,0,0,0,1,0,0,0,0,0,1
+326,bread,artisan,1,0,0,0,0,1,0,0,0,0,0,2
+327,bread,rosemary bread,1,1,0,0,1,1,1,1,1,1,1,9
+328,bread,whole grain,1,1,0,0,1,1,0,1,0,0,1,6
+329,bread,hazelnut,1,0,0,0,0,1,0,0,0,0,0,2
+330,bread,freshly baked,1,1,0,0,1,1,0,1,0,0,1,6
+331,pasta,bolognese,1,1,0,0,1,1,1,1,1,0,1,8
+332,pasta,penne,0,1,0,0,0,1,0,0,0,0,1,3
+333,pasta,tagliatelle,0,1,0,0,0,1,1,1,0,0,1,5
+334,pasta,gnocchi,1,1,0,0,0,1,0,1,0,0,1,5
+335,pasta,ravioli,1,0,0,0,1,1,1,1,1,0,1,7
+336,pasta,pesto,0,1,0,0,0,1,0,1,0,0,1,4
+337,pasta,risotto,1,1,0,0,0,1,0,1,0,0,1,5
+338,pasta,cajun,0,0,0,0,0,0,0,0,0,0,0,0
+339,pasta,anti,1,1,0,0,0,1,0,1,0,0,1,5
+340,pasta,jerk,0,0,0,0,0,0,0,0,0,0,0,0
+341,pasta,buffalo,0,0,0,0,0,0,0,0,0,0,0,0
+342,pasta,grill cheese,1,0,0,0,0,1,0,0,0,0,1,3
+343,pasta,chipotle,0,0,0,0,0,0,0,0,0,0,0,0
+344,pasta,bruschetta,0,1,0,0,0,1,0,1,0,0,1,4
+345,pasta,big rig,1,0,0,0,0,1,0,0,0,0,1,3
+346,pasta,louisiana creole,0,0,0,0,0,0,0,0,0,0,0,0
+347,pasta,tortellini,1,1,0,0,0,1,1,1,0,0,1,6
+348,pasta,bow tie,0,0,0,0,0,0,0,0,0,0,0,0
+349,pasta,cornmeal,0,0,0,0,0,0,0,0,0,0,0,0
+350,pasta,donburi,0,0,0,0,0,0,0,0,0,0,0,0
+351,pasta,pilaf,0,0,0,0,0,0,0,0,0,0,0,0
+352,pasta,alla vodka,1,1,0,0,1,1,0,1,1,0,1,7
+353,pasta,fra diavolo,0,1,0,0,0,1,0,1,0,0,0,3
+354,pasta,ala vodka,1,1,0,0,0,1,0,0,0,0,0,3
+355,pasta,di mare,1,1,0,0,0,1,0,1,1,0,1,6
+356,pasta,wild mushroom,1,0,0,0,0,1,0,0,0,0,1,3
+357,pasta,baked penne,1,0,0,0,0,1,0,0,1,0,1,4
+358,pasta,grill calamari,0,1,0,0,0,0,0,0,0,0,0,1
+359,pasta,creamy tomato,1,0,0,0,0,1,0,1,1,0,1,5
+360,pasta,homemade pasta,1,1,0,0,0,1,0,0,1,0,1,5
+361,pasta,baked ziti,1,0,0,0,0,1,0,1,1,0,1,5
+362,pasta,veal,0,0,0,0,0,0,0,0,0,0,0,0
+363,pasta,polenta,1,0,0,0,0,1,0,0,0,0,0,2
+364,pasta,fried ravioli,1,0,0,0,0,1,1,0,0,0,1,4
+365,pasta,osso bucco,1,0,0,0,0,1,1,0,0,0,1,4
+366,pasta,gorgonzola,0,0,0,0,0,1,0,0,0,0,1,2
+367,pasta,basil pesto,1,0,0,0,0,1,1,1,1,0,1,6
+368,pasta,marsala,0,0,0,0,0,1,0,0,0,0,0,1
+369,pasta,pancetta,0,0,0,0,0,1,0,0,0,0,1,2
+370,pasta,lasagne,0,0,0,0,0,0,0,0,0,0,0,0
+371,beer,draft beer,1,0,0,0,1,1,0,1,1,0,1,6
+372,beer,craft beer,1,0,0,0,1,1,0,1,1,0,1,6
+373,beer,bottled beer,1,0,0,0,1,1,0,1,1,0,1,6
+374,beer,tequila,0,0,1,0,1,1,0,0,1,0,1,5
+375,beer,sake,1,1,1,0,1,1,0,1,1,0,1,8
+376,beer,italian wine,0,0,1,0,1,1,0,0,1,0,1,5
+377,beer,organic,1,0,0,0,1,1,0,0,0,0,1,4
+378,beer,game,0,0,0,0,0,0,0,0,0,0,1,1
+379,beer,rum,1,0,1,0,1,1,0,0,1,0,1,6
+380,beer,argentinian,0,0,0,0,0,0,0,0,0,0,1,1
+381,beer,vodka,1,0,1,0,1,1,0,1,1,0,1,7
+382,beer,french wine,1,0,1,0,1,1,0,0,1,0,1,6
+383,beer,local beer,0,0,0,0,1,1,0,1,1,0,1,5
+384,beer,mirin,0,0,0,0,0,0,0,0,0,0,1,1
+385,soup,chicken soup,1,0,1,0,1,1,1,0,1,0,1,7
+386,soup,noodle soup,1,0,1,0,1,1,1,1,1,0,1,8
+387,soup,lobster bisque,1,1,0,0,1,1,0,1,1,0,1,7
+388,soup,raman,0,0,0,0,0,1,0,0,0,0,1,2
+389,soup,broth,1,1,0,0,1,1,0,0,1,0,1,6
+390,soup,stew,1,0,1,0,1,1,0,0,1,0,1,6
+391,soup,carpaccio,0,0,0,0,0,1,0,0,0,0,1,2
+392,soup,teriyaki,0,0,0,0,0,1,0,0,0,0,1,2
+393,soup,gravy,0,0,0,0,0,1,0,0,0,0,1,2
+394,soup,chow fun,1,0,0,0,1,1,0,0,1,0,1,5
+395,soup,weekend brunch,0,0,0,0,0,0,0,0,0,0,0,0
+396,soup,aftertaste,0,0,0,0,0,1,0,0,0,0,1,2
+397,soup,mole sauce,0,0,0,0,1,1,0,0,0,0,0,2
+398,soup,pho fix,0,1,0,0,1,1,0,0,0,0,1,4
+399,soup,fish ball,1,0,1,0,1,1,0,0,1,0,1,6
+400,soup,flat soda,0,0,0,0,0,0,0,0,0,0,0,0
+401,soup,ginger ale,0,0,0,0,0,0,0,0,0,0,0,0
+402,soup,black tea,0,0,0,0,1,1,0,0,0,0,0,2
+403,soup,fried rice,1,0,0,0,0,1,0,0,0,0,1,3
+404,soup,apple juice,0,0,0,0,0,0,0,0,0,0,0,0
+405,soup,casserole,0,0,0,0,0,1,0,0,0,0,1,2
+406,soup,fois gras,0,0,0,0,0,1,0,0,0,0,1,2
+407,soup,miso soup,1,0,1,0,1,1,1,1,1,0,1,8
+408,soup,chowder,1,0,0,0,1,1,0,0,0,0,1,4
+409,soup,prime steak,0,0,0,0,0,1,0,0,0,0,0,1
+410,soup,herbal tea,1,0,0,0,1,1,0,0,0,0,0,3
+411,soup,shabu shabu,0,0,0,0,1,1,0,0,0,0,1,3
+412,soup,udon,0,0,0,0,0,1,0,0,0,0,1,2
+413,soup,pho ga,0,0,0,0,1,1,0,0,1,0,1,4
+414,soup,wonton,0,0,0,0,1,1,0,0,0,0,1,3
+415,soup,rendang,0,0,0,0,0,1,0,0,0,0,1,2
+416,soup,rice vermicelli,0,0,1,0,1,1,1,0,1,0,1,6
+417,soup,tom yum,1,1,1,0,1,1,0,1,1,0,1,8
+418,soup,hand pull,0,0,0,0,0,0,0,0,0,0,0,0
+419,soup,vermicelli,0,0,0,0,0,1,0,0,0,0,1,2
+420,soup,borscht,0,0,0,0,0,1,0,0,0,0,1,2
+421,soup,shoyu raman,0,0,0,0,1,1,0,0,0,0,1,3
+422,soup,naengmyeon,0,0,0,0,0,1,0,0,0,0,1,2
+423,soup,cha shu,0,0,0,0,1,1,0,0,0,0,1,3
+424,soup,pho broth,1,1,1,0,1,1,1,1,1,0,1,9
+425,soup,tom kha,1,1,1,0,1,1,0,1,1,0,1,8
+426,soup,rice noodle,1,0,1,0,1,1,1,1,1,0,1,8
+427,soup,rice cake,1,0,0,0,1,1,0,0,1,0,1,5
+428,soup,jjigae,0,0,0,0,0,1,0,0,0,0,1,2
+429,soup,lo mein,1,0,1,0,1,1,0,0,1,0,1,6
+430,soup,tonkotsu raman,0,0,0,0,1,1,0,0,0,0,1,3
+431,wine,chianti,0,0,0,0,0,0,0,0,0,0,0,0
+432,wine,red wine,1,1,1,0,1,1,1,1,1,1,1,10
+433,wine,red,1,1,1,0,1,1,0,1,1,1,1,9
+434,wine,cabernet,0,0,0,0,0,0,0,0,0,0,0,0
+435,wine,champagne,1,0,0,0,1,1,0,0,1,0,1,5
+436,wine,white wine,1,1,1,0,1,1,1,1,1,1,1,10
+437,wine,chardonnay,0,0,0,0,1,1,0,1,1,0,1,5
+438,wine,prosecco,0,0,0,0,0,0,0,0,0,0,1,1
+439,wine,sauvignon blanc,0,1,0,0,1,1,1,1,1,1,1,8
+440,wine,pinot noir,0,1,0,0,1,1,1,1,1,1,1,8
+441,cheese,cheddar cheese,0,1,0,0,1,1,0,1,1,0,1,6
+442,cheese,cheddar,0,0,0,0,1,1,0,0,0,0,0,2
+443,cheese,smoke gouda,0,0,0,0,0,1,0,0,0,0,0,1
+444,cheese,stone ground,0,0,0,0,0,0,0,0,0,0,0,0
+445,cocktail,whiskey sour,0,0,0,0,0,1,0,0,1,0,1,3
+446,cocktail,mixed drink,0,0,0,0,1,1,0,0,0,0,1,3
+447,cocktail,specialty cocktail,1,0,1,0,1,1,0,0,1,0,1,6
+448,cocktail,italy,0,0,0,0,0,0,0,0,0,0,0,0
+449,cocktail,pollo fundido,0,0,0,0,0,0,0,0,0,0,0,0
+450,cocktail,highly recommend,0,0,1,0,0,0,0,0,0,0,0,1
+451,cocktail,el pastor,0,0,0,0,0,0,0,0,0,0,0,0
+452,cocktail,salt oreo,0,0,0,0,0,0,0,0,0,0,1,1
+453,cocktail,saganaki,0,0,0,0,0,0,0,0,0,0,0,0
+454,cocktail,loco moco,0,0,0,0,0,0,0,0,0,0,0,0
+455,cocktail,baked potato,0,0,0,0,0,0,0,0,0,0,0,0
+456,cocktail,home style potato,0,0,0,0,0,0,0,0,0,0,0,0
+457,cocktail,sidecar,0,0,0,0,0,0,0,0,0,0,0,0
+458,cocktail,ala carte,0,0,0,0,0,0,0,0,0,0,0,0
+459,cocktail,bento box,0,0,0,0,0,0,0,0,0,0,0,0
+460,cocktail,tom collins,1,0,0,0,0,1,0,0,0,0,1,3
+461,cocktail,bramble,0,0,0,0,0,0,0,0,0,0,0,0
+462,cocktail,mix drink,0,0,0,0,1,1,0,0,1,0,1,4
+463,cocktail,vanilla sky,0,0,0,0,0,1,0,0,0,0,1,2
+464,cocktail,hard liquor,1,0,0,0,1,1,0,0,0,0,1,4
+465,cocktail,fruit wine,1,0,1,0,1,1,0,0,1,0,1,6
+466,cocktail,table wine,0,1,1,0,1,1,0,0,0,0,1,5
+467,cocktail,tap beer,0,0,0,0,0,1,0,0,0,0,1,2
+468,cocktail,german beer,0,0,0,0,0,1,0,0,0,0,1,2
+469,taco,tacos,1,0,1,1,1,1,0,1,1,1,1,9
+470,taco,street taco,1,0,0,0,1,1,0,0,0,0,1,4
+471,taco,carnitas,0,0,0,0,0,0,0,0,0,0,1,1
+472,taco,carne asada,1,0,1,1,1,1,0,0,1,0,1,7
+473,taco,chorizo,0,0,0,0,0,0,0,0,0,0,1,1
+474,taco,al pastor,1,1,0,0,1,1,0,1,1,1,1,8
+475,taco,pastor,1,1,0,0,1,1,0,1,1,1,1,8
+476,taco,barbacoa,0,0,0,0,0,0,0,0,0,0,0,0
+477,taco,torta,0,0,0,0,0,0,0,0,0,0,1,1
+478,taco,shredded beef,1,0,1,0,1,1,0,0,1,0,1,6
+479,taco,burro,1,0,0,0,1,1,0,0,0,0,1,4
+480,taco,nachos,0,0,0,0,0,0,0,0,0,0,1,1
+481,taco,enchilada,1,0,0,0,1,1,0,0,0,0,1,4
+482,taco,mojarra,0,0,0,0,0,0,0,0,0,0,1,1
+483,taco,tripe,0,0,0,0,0,0,0,0,0,0,0,0
+484,taco,tableside guacamole,0,0,0,0,0,0,0,0,0,0,1,1
+485,taco,salads,0,0,0,0,0,0,0,0,0,0,0,0
+486,taco,hot salsa,0,0,0,0,0,0,0,0,0,0,0,0
+487,water,tap water,1,0,0,0,1,1,0,1,0,0,1,5
+488,water,soda water,1,0,0,0,1,1,0,1,0,0,1,5
+489,water,fiji,1,0,0,0,0,0,0,0,0,0,0,1
+490,water,sparkle,0,0,0,0,0,0,0,0,0,0,0,0
+491,water,dirty mop,0,0,0,0,0,0,0,0,0,0,0,0
+492,water,salt,1,0,0,0,0,0,0,0,0,0,0,1
+493,music,band,1,0,0,0,1,1,0,1,0,0,1,5
+494,music,background music,1,0,0,0,1,1,1,1,1,0,1,7
+495,music,r b,1,1,0,0,1,1,0,1,1,0,1,7
+496,music,k pop,1,1,0,0,0,1,0,1,0,0,1,5
+497,music,dj,1,0,0,0,1,1,0,1,1,0,1,6
+498,music,electronic music,1,0,0,0,1,1,1,1,1,0,1,7
+499,music,ghetto,1,0,0,0,0,0,0,0,0,0,0,1
+500,music,oldie,0,0,0,0,0,0,0,0,0,0,0,0
+501,music,music video,1,1,0,0,0,1,1,1,0,0,1,6
+502,music,beatle,0,0,0,0,0,1,0,0,0,0,0,1
+503,music,loud music,1,1,0,0,1,1,1,1,1,0,1,8
+504,music,rock music,1,0,0,0,1,1,1,1,1,0,1,7
+505,music,sport,0,0,0,0,0,1,0,0,0,0,0,1
+506,music,techno music,1,0,0,0,1,1,1,1,1,0,1,7
+507,music,hawaiian music,1,0,0,0,1,1,1,1,1,0,1,7
+508,music,tiesto,0,0,0,0,0,0,0,0,0,0,0,0
+509,music,trumpet,1,0,0,0,1,1,0,1,1,0,1,6
+510,music,smooth jazz,1,0,0,0,1,1,0,1,1,0,1,6
+511,music,big screen tv,0,0,0,0,0,1,0,0,0,0,0,1
+512,music,christmas music,1,0,0,0,1,1,1,1,1,0,1,7
+513,music,indie music,1,0,0,0,1,1,0,1,0,0,1,5
+514,music,whitesnake,0,0,0,0,0,0,0,0,0,0,0,0
+515,music,large screen,0,0,0,0,0,0,0,0,0,0,0,0
+516,music,anime,0,0,0,0,0,1,0,0,0,0,1,2
+517,music,hip hop,1,0,0,0,1,1,0,1,0,0,1,5
+518,music,blue music,1,0,0,0,1,1,0,1,0,0,1,5
+519,music,jazz music,1,0,0,0,1,1,1,1,1,0,1,7
+520,music,jazz,1,0,0,0,1,1,1,1,1,1,1,8
+521,music,upbeat music,1,0,0,0,1,1,1,1,1,0,1,7
+522,music,front desk,0,0,0,0,0,0,0,0,0,0,0,0
+523,music,regina spektor,0,0,0,0,0,0,0,0,0,0,0,0
