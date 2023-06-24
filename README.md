@@ -2,7 +2,7 @@
 RaTE: a Reproducible automatic Taxonomy Evaluation by Filling the Gap (Code)
 
 **Minimalistic run:**  
-python rate.py -t "taxos/HiExpan1.txt"
+*python rate.py -t "taxos/HiExpan1.txt"*
 
 **Sample output:**  
 Taxonomy path: taxos/HiExpan1.txt  
