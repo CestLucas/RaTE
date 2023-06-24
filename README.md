@@ -5,7 +5,6 @@ Minimalistic run:
 python rate.py -t "taxos/HiExpan1.txt"
 
 Sample output:  
-Using MPS backend.  
 Calculating score...  
 Taxonomy path: taxos/HiExpan1.txt  
 Pattern path: custom_queries/default_queries.txt  
