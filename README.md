@@ -1,10 +1,10 @@
 # RaTE
 RaTE: a Reproducible automatic Taxonomy Evaluation by Filling the Gap (Code)
 
-Minimalistic run:  
+**Minimalistic run:**  
 python rate.py -t "taxos/HiExpan1.txt"
 
-Sample output:  
+**Sample output:**  
 Taxonomy path: taxos/HiExpan1.txt  
 Pattern path: custom_queries/default_queries.txt  
 Evaluation model: bert_base  
@@ -12,7 +12,7 @@ Number of predictions per query: 10
 RaTE score: 0.4961832061068702
 
 
-Required libraries:  
+**Required libraries:**  
 torch  
 transformers  
 nltk  
