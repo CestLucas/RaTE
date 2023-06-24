@@ -1,7 +1,7 @@
 # RaTE
 RaTE: a Reproducible automatic Taxonomy Evaluation by Filling the Gap (Code)
 
-Minimalistic run:
+Minimalistic run:  
 python rate.py -t "taxos/HiExpan1.txt"
 
 Sample output:  
