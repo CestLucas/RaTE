@@ -1,8 +1,14 @@
 # RaTE
 RaTE: a Reproducible automatic Taxonomy Evaluation by Filling the Gap (Code)
 
+(Temporary) link to the paper: https://shorturl.at/hoDNU
+
+
 **Minimalistic run:**  
 *python rate.py -t "taxos/HiExpan1.txt"*
+
+**Or with more specifications:**  
+*python rate.py -t "taxos/HiExpan1.txt" -m "m1a" -k 10*
 
 **Sample output:**  
 Taxonomy path: taxos/HiExpan1.txt  
@@ -18,7 +24,6 @@ transformers
 nltk  
 pandas  
 tqdm*  
-
 
 Download the Yelp dataset used in the paper and code: https://shorturl.at/auvxT
 
