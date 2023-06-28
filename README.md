@@ -3,7 +3,6 @@ RaTE: a Reproducible automatic Taxonomy Evaluation by Filling the Gap (Code)
 
 (Temporary) link to the paper: https://shorturl.at/hoDNU
 
-
 **Minimalistic run:**  
 *python rate.py -t "taxos/HiExpan1.txt"*
 
@@ -17,7 +16,6 @@ Evaluation model: bert_base
 Number of predictions per query: 10  
 RaTE score: 0.4961832061068702
 
-
 **Required libraries:**  
 torch  
 transformers  
@@ -27,4 +25,4 @@ tqdm*
 
 Download the Yelp dataset used in the paper and code: https://shorturl.at/auvxT
 
-More updates coming soon!
+Rest assured, more updates are coming soon!
