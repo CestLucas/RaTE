@@ -1,7 +1,7 @@
 # RaTE
 RaTE: a Reproducible automatic Taxonomy Evaluation by Filling the Gap (Code)
 
-(Temporary) link to the paper: https://shorturl.at/hoDNU
+Link to the paper: https://iwcs.pimoid.fr/30.pdf
 
 **Minimalistic run:**  
 *python rate.py -t "taxos/HiExpan1.txt"*
